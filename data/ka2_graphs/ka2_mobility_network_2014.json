@@ -1,0 +1,5257 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "language_family": "14",
+      "economic_family": "Emerging_Market",
+      "geographical_cultural_region": "Other",
+      "lat": 42.3154,
+      "lon": 43.3569,
+      "id": "GE - Georgia"
+    },
+    {
+      "language_family": "1,3,4",
+      "economic_family": "Advanced_Economy",
+      "geographical_cultural_region": "West",
+      "lat": 49.8153,
+      "lon": 6.1296,
+      "id": "LU - Luxembourg"
+    },
+    {
+      "language_family": "4",
+      "economic_family": "Emerging_Market",
+      "geographical_cultural_region": "Central/East",
+      "lat": 45.9432,
+      "lon": 24.9668,
+      "id": "RO - Romania"
+    },
+    {
+      "language_family": "4",
+      "economic_family": "Advanced_Economy",
+      "geographical_cultural_region": "South",
+      "lat": 39.3999,
+      "lon": -8.2245,
+      "id": "PT - Portugal"
+    },
+    {
+      "language_family": "1,2",
+      "economic_family": "Advanced_Economy",
+      "geographical_cultural_region": "North",
+      "lat": 60.1282,
+      "lon": 18.6435,
+      "id": "SE - Sweden"
+    },
+    {
+      "language_family": "1,2",
+      "economic_family": "Advanced_Economy",
+      "geographical_cultural_region": "North",
+      "lat": 60.472,
+      "lon": 8.4689,
+      "id": "NO - Norway"
+    },
+    {
+      "language_family": "1,3",
+      "economic_family": "Advanced_Economy",
+      "geographical_cultural_region": "West",
+      "lat": 55.3781,
+      "lon": -3.436,
+      "id": "UK - United Kingdom"
+    },
+    {
+      "language_family": "1,3",
+      "economic_family": "Advanced_Economy",
+      "geographical_cultural_region": "West",
+      "lat": 47.5162,
+      "lon": 14.5501,
+      "id": "AT - Austria"
+    },
+    {
+      "language_family": "9,15",
+      "economic_family": "Advanced_Economy",
+      "geographical_cultural_region": "Other",
+      "lat": 35.1264,
+      "lon": 33.4299,
+      "id": "CY - Cyprus"
+    },
+    {
+      "language_family": "5,8",
+      "economic_family": "Advanced_Economy",
+      "geographical_cultural_region": "Central/East",
+      "lat": 46.1512,
+      "lon": 14.9955,
+      "id": "SI - Slovenia"
+    },
+    {
+      "language_family": "12",
+      "economic_family": "Advanced_Economy",
+      "geographical_cultural_region": "North",
+      "lat": 61.9241,
+      "lon": 25.7482,
+      "id": "FI - Finland"
+    },
+    {
+      "language_family": "1,3,4",
+      "economic_family": "Advanced_Economy",
+      "geographical_cultural_region": "West",
+      "lat": 50.5039,
+      "lon": 4.4699,
+      "id": "BE - Belgium"
+    },
+    {
+      "language_family": "1,3,16",
+      "economic_family": "Advanced_Economy",
+      "geographical_cultural_region": "South",
+      "lat": 35.9375,
+      "lon": 14.3754,
+      "id": "MT - Malta"
+    },
+    {
+      "language_family": "5,8",
+      "economic_family": "Emerging_Market",
+      "geographical_cultural_region": "Central/East",
+      "lat": 43.9159,
+      "lon": 17.6791,
+      "id": "BA - Bosnia and Herzegovina"
+    },
+    {
+      "language_family": "5,8",
+      "economic_family": "Emerging_Market",
+      "geographical_cultural_region": "Central/East",
+      "lat": 42.7339,
+      "lon": 25.4858,
+      "id": "BG - Bulgaria"
+    },
+    {
+      "language_family": "10",
+      "economic_family": "Advanced_Economy",
+      "geographical_cultural_region": "Central/East",
+      "lat": 56.8796,
+      "lon": 24.6032,
+      "id": "LV - Latvia"
+    },
+    {
+      "language_family": "5,8",
+      "economic_family": "Emerging_Market",
+      "geographical_cultural_region": "Central/East",
+      "lat": 44.0165,
+      "lon": 21.0059,
+      "id": "RS - Serbia"
+    },
+    {
+      "language_family": "5,6",
+      "economic_family": "Advanced_Economy",
+      "geographical_cultural_region": "Central/East",
+      "lat": 48.669,
+      "lon": 19.699,
+      "id": "SK - Slovakia"
+    },
+    {
+      "language_family": "4",
+      "economic_family": "Advanced_Economy",
+      "geographical_cultural_region": "West",
+      "lat": 46.2276,
+      "lon": 2.2137,
+      "id": "FR - France"
+    },
+    {
+      "language_family": "5,8",
+      "economic_family": "Advanced_Economy",
+      "geographical_cultural_region": "Central/East",
+      "lat": 45.1,
+      "lon": 15.2,
+      "id": "HR - Croatia"
+    },
+    {
+      "language_family": "15",
+      "economic_family": "Emerging_Market",
+      "geographical_cultural_region": "Other",
+      "lat": 38.9637,
+      "lon": 35.2433,
+      "id": "TR - Turkey"
+    },
+    {
+      "language_family": "9",
+      "economic_family": "Advanced_Economy",
+      "geographical_cultural_region": "South",
+      "lat": 39.0742,
+      "lon": 21.8243,
+      "id": "EL - Greece"
+    },
+    {
+      "language_family": "5,8,11",
+      "economic_family": "Emerging_Market",
+      "geographical_cultural_region": "Central/East",
+      "lat": 41.6086,
+      "lon": 21.7453,
+      "id": "MK - The Republic of North Macedonia"
+    },
+    {
+      "language_family": "5,8",
+      "economic_family": "Emerging_Market",
+      "geographical_cultural_region": "Central/East",
+      "lat": 42.7087,
+      "lon": 19.3744,
+      "id": "ME - Montenegro"
+    },
+    {
+      "language_family": "4",
+      "economic_family": "Advanced_Economy",
+      "geographical_cultural_region": "South",
+      "lat": 41.8719,
+      "lon": 12.5674,
+      "id": "IT - Italy"
+    },
+    {
+      "language_family": "1,3",
+      "economic_family": "Advanced_Economy",
+      "geographical_cultural_region": "West",
+      "lat": 51.1657,
+      "lon": 10.4515,
+      "id": "DE - Germany"
+    },
+    {
+      "language_family": "1,2",
+      "economic_family": "Advanced_Economy",
+      "geographical_cultural_region": "North",
+      "lat": 64.9631,
+      "lon": -19.0208,
+      "id": "IS - Iceland"
+    },
+    {
+      "language_family": "13",
+      "economic_family": "Emerging_Market",
+      "geographical_cultural_region": "Central/East",
+      "lat": 47.1625,
+      "lon": 19.5033,
+      "id": "HU - Hungary"
+    },
+    {
+      "language_family": "11",
+      "economic_family": "Developing_Economy",
+      "geographical_cultural_region": "Central/East",
+      "lat": 42.6026,
+      "lon": 20.903,
+      "id": "XK - Kosovo * UN resolution"
+    },
+    {
+      "language_family": "16",
+      "economic_family": "Developing_Economy",
+      "geographical_cultural_region": "Other",
+      "lat": 26.3351,
+      "lon": 17.2283,
+      "id": "LY - Libya"
+    },
+    {
+      "language_family": "1,3",
+      "economic_family": "Advanced_Economy",
+      "geographical_cultural_region": "West",
+      "lat": 53.1424,
+      "lon": -7.6921,
+      "id": "IE - Ireland"
+    },
+    {
+      "language_family": "1,3",
+      "economic_family": "Advanced_Economy",
+      "geographical_cultural_region": "West",
+      "lat": 52.1326,
+      "lon": 5.2913,
+      "id": "NL - Netherlands"
+    },
+    {
+      "language_family": "10",
+      "economic_family": "Advanced_Economy",
+      "geographical_cultural_region": "Central/East",
+      "lat": 55.1694,
+      "lon": 23.8813,
+      "id": "LT - Lithuania"
+    },
+    {
+      "language_family": "10,12",
+      "economic_family": "Advanced_Economy",
+      "geographical_cultural_region": "Central/East",
+      "lat": 58.5953,
+      "lon": 25.0136,
+      "id": "EE - Estonia"
+    },
+    {
+      "language_family": "5,6",
+      "economic_family": "Advanced_Economy",
+      "geographical_cultural_region": "Central/East",
+      "lat": 49.8175,
+      "lon": 15.473,
+      "id": "CZ - Czechia"
+    },
+    {
+      "language_family": "4",
+      "economic_family": "Advanced_Economy",
+      "geographical_cultural_region": "South",
+      "lat": 40.4637,
+      "lon": -3.7492,
+      "id": "ES - Spain"
+    },
+    {
+      "language_family": "1,2",
+      "economic_family": "Advanced_Economy",
+      "geographical_cultural_region": "North",
+      "lat": 56.2639,
+      "lon": 9.5018,
+      "id": "DK - Denmark"
+    },
+    {
+      "language_family": "5,6",
+      "economic_family": "Emerging_Market",
+      "geographical_cultural_region": "Central/East",
+      "lat": 51.9194,
+      "lon": 19.1451,
+      "id": "PL - Poland"
+    },
+    {
+      "language_family": "1,3",
+      "economic_family": "Advanced_Economy",
+      "geographical_cultural_region": "West",
+      "lat": 47.166,
+      "lon": 9.5554,
+      "id": "LI - Liechtenstein"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 6,
+      "metadata": {
+        "sender_org": {
+          "colegiul tehnic henri coanda timisoara": 3
+        },
+        "receiver_org": {
+          "heinrich-wieland-schule": 3
+        },
+        "start_months": {
+          "12": 3
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 3
+        },
+        "special_needs": {
+          "N": 3
+        },
+        "fewer_opportunities": {
+          "N": 3
+        },
+        "disadvantaged_background": {
+          "N": 3
+        }
+      },
+      "source": "RO - Romania",
+      "target": "DE - Germany"
+    },
+    {
+      "weight": 5,
+      "metadata": {
+        "sender_org": {
+          "colegiul de industrie alimentara \"elena doamna\"": 2
+        },
+        "receiver_org": {
+          "3rd lyceum of koropi": 2
+        },
+        "start_months": {
+          "11": 2
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 2
+        },
+        "special_needs": {
+          "N": 2
+        },
+        "fewer_opportunities": {
+          "N": 2
+        },
+        "disadvantaged_background": {
+          "N": 2
+        }
+      },
+      "source": "RO - Romania",
+      "target": "EL - Greece"
+    },
+    {
+      "weight": 6,
+      "metadata": {
+        "sender_org": {
+          "scoala gimnaziala cavnic": 1,
+          "colegiul national ,,garabet ibraileanu\"": 3
+        },
+        "receiver_org": {
+          "\"peyo yavorov\"": 1,
+          "119 secondary school \"academician mihail arnaudov\"": 3
+        },
+        "start_months": {
+          "12": 4
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 4
+        },
+        "special_needs": {
+          "N": 4
+        },
+        "fewer_opportunities": {
+          "N": 4
+        },
+        "disadvantaged_background": {
+          "N": 4
+        }
+      },
+      "source": "RO - Romania",
+      "target": "BG - Bulgaria"
+    },
+    {
+      "weight": 7,
+      "metadata": {
+        "sender_org": {
+          "scoala superioara comerciala nicolae kretzulescu": 3
+        },
+        "receiver_org": {
+          "lyc\u00e9e g\u00e9n\u00e9ral et techno saint-exup\u00e9ry": 3
+        },
+        "start_months": {
+          "11": 3
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 3
+        },
+        "special_needs": {
+          "N": 3
+        },
+        "fewer_opportunities": {
+          "N": 3
+        },
+        "disadvantaged_background": {
+          "N": 3
+        }
+      },
+      "source": "RO - Romania",
+      "target": "FR - France"
+    },
+    {
+      "weight": 2,
+      "metadata": {
+        "sender_org": {
+          "scoala gimnaziala nr. 103": 2
+        },
+        "receiver_org": {
+          "ventspils 2,pamatskola": 2
+        },
+        "start_months": {
+          "11": 2
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 2
+        },
+        "special_needs": {
+          "N": 2
+        },
+        "fewer_opportunities": {
+          "N": 2
+        },
+        "disadvantaged_background": {
+          "N": 2
+        }
+      },
+      "source": "RO - Romania",
+      "target": "LV - Latvia"
+    },
+    {
+      "weight": 3,
+      "metadata": {
+        "sender_org": {
+          "liceul de arte \"marin sorescu\"": 2
+        },
+        "receiver_org": {
+          "zespol szkol nr 7 szkola podstawowa nr 12 gimnazjum nr 8 gdynia": 2
+        },
+        "start_months": {
+          "11": 2
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 2
+        },
+        "special_needs": {
+          "N": 2
+        },
+        "fewer_opportunities": {
+          "N": 2
+        },
+        "disadvantaged_background": {
+          "N": 2
+        }
+      },
+      "source": "RO - Romania",
+      "target": "PL - Poland"
+    },
+    {
+      "weight": 3,
+      "metadata": {
+        "sender_org": {
+          "liceul tehnologic nr.1 campulung moldovenesc": 3
+        },
+        "receiver_org": {
+          "agrupamento de escolas do barreiro": 3
+        },
+        "start_months": {
+          "12": 3
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 3
+        },
+        "special_needs": {
+          "N": 3
+        },
+        "fewer_opportunities": {
+          "N": 3
+        },
+        "disadvantaged_background": {
+          "N": 3
+        }
+      },
+      "source": "RO - Romania",
+      "target": "PT - Portugal"
+    },
+    {
+      "weight": 4,
+      "metadata": {
+        "sender_org": {
+          "colegiul national \"liviu rebreanu\", bistrita": 2
+        },
+        "receiver_org": {
+          "zakladni skola ostrava, nadrazni 117, p.o.": 2
+        },
+        "start_months": {
+          "12": 2
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 2
+        },
+        "special_needs": {
+          "N": 2
+        },
+        "fewer_opportunities": {
+          "N": 2
+        },
+        "disadvantaged_background": {
+          "N": 2
+        }
+      },
+      "source": "RO - Romania",
+      "target": "CZ - Czechia"
+    },
+    {
+      "weight": 8,
+      "metadata": {
+        "sender_org": {
+          "agrupamento de escolas de santa comba d\u00e3o": 4
+        },
+        "receiver_org": {
+          "bhak/bhas g\u00e4nserndorf": 4
+        },
+        "start_months": {
+          "11": 4
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 4
+        },
+        "special_needs": {
+          "N": 4
+        },
+        "fewer_opportunities": {
+          "N": 4
+        },
+        "disadvantaged_background": {
+          "N": 4
+        }
+      },
+      "source": "PT - Portugal",
+      "target": "AT - Austria"
+    },
+    {
+      "weight": 3,
+      "metadata": {
+        "sender_org": {
+          "agrupamento de escolas de macedo de cavaleiros": 2,
+          "agrupamento de escolas d pedro i": 1
+        },
+        "receiver_org": {
+          "institut notre-dame de thuin": 2,
+          "go! basisschool schaarbeek hendrik conscience": 1
+        },
+        "start_months": {
+          "11": 2,
+          "10": 1
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 3
+        },
+        "special_needs": {
+          "N": 3
+        },
+        "fewer_opportunities": {
+          "N": 3
+        },
+        "disadvantaged_background": {
+          "N": 3
+        }
+      },
+      "source": "PT - Portugal",
+      "target": "BE - Belgium"
+    },
+    {
+      "weight": 10,
+      "metadata": {
+        "sender_org": {
+          "agrupamento de escolas dr. jorge augusto correia": 3,
+          "instituto educativo do ribatejo s. a.": 2
+        },
+        "receiver_org": {
+          "1st general lyceum of levadia": 3,
+          "7th high school of corfu": 2
+        },
+        "start_months": {
+          "12": 5
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 5
+        },
+        "special_needs": {
+          "N": 5
+        },
+        "fewer_opportunities": {
+          "N": 4,
+          "Y": 1
+        },
+        "disadvantaged_background": {
+          "N": 5
+        }
+      },
+      "source": "PT - Portugal",
+      "target": "EL - Greece"
+    },
+    {
+      "weight": 6,
+      "metadata": {
+        "sender_org": {
+          "agrupamento de escolas de vila nova de poiares": 2
+        },
+        "receiver_org": {
+          "2college cobbenhagenlyceum": 2
+        },
+        "start_months": {
+          "11": 2
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 2
+        },
+        "special_needs": {
+          "N": 2
+        },
+        "fewer_opportunities": {
+          "N": 2
+        },
+        "disadvantaged_background": {
+          "N": 2
+        }
+      },
+      "source": "PT - Portugal",
+      "target": "NL - Netherlands"
+    },
+    {
+      "weight": 8,
+      "metadata": {
+        "sender_org": {
+          "agrupamento de escolas n\u00ba 4 de \u00e9vora": 2,
+          "agrupamento de escolas n\u00ba 2 de beja": 3
+        },
+        "receiver_org": {
+          "coll\u00e8ge \"la sologne\"": 2,
+          "lyc\u00e9e g\u00e9n\u00e9ral et techno saint-exup\u00e9ry": 3
+        },
+        "start_months": {
+          "12": 2,
+          "11": 3
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 5
+        },
+        "special_needs": {
+          "N": 5
+        },
+        "fewer_opportunities": {
+          "N": 5
+        },
+        "disadvantaged_background": {
+          "N": 5
+        }
+      },
+      "source": "PT - Portugal",
+      "target": "FR - France"
+    },
+    {
+      "weight": 4,
+      "metadata": {
+        "sender_org": {
+          "agrupamento de escolas dr. guilherme correia de carvalho, seia": 3
+        },
+        "receiver_org": {
+          "ceip virgen de la cabeza": 3
+        },
+        "start_months": {
+          "11": 3
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 3
+        },
+        "special_needs": {
+          "N": 3
+        },
+        "fewer_opportunities": {
+          "N": 2,
+          "Y": 1
+        },
+        "disadvantaged_background": {
+          "N": 3
+        }
+      },
+      "source": "PT - Portugal",
+      "target": "ES - Spain"
+    },
+    {
+      "weight": 4,
+      "metadata": {
+        "sender_org": {
+          "agrupamento de escolas dr. mario sacramento": 2
+        },
+        "receiver_org": {
+          "zakladni skola ostrava, nadrazni 117, p.o.": 2
+        },
+        "start_months": {
+          "12": 2
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 2
+        },
+        "special_needs": {
+          "N": 2
+        },
+        "fewer_opportunities": {
+          "N": 2
+        },
+        "disadvantaged_background": {
+          "N": 2
+        }
+      },
+      "source": "PT - Portugal",
+      "target": "CZ - Czechia"
+    },
+    {
+      "weight": 2,
+      "metadata": {
+        "sender_org": {
+          "agrupamento de escolas d pedro i": 2
+        },
+        "receiver_org": {
+          "k\u00fc\u00e7\u00fck\u00e7ekmece imkb yavuz sultan selim secondary school": 2
+        },
+        "start_months": {
+          "12": 2
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 2
+        },
+        "special_needs": {
+          "N": 2
+        },
+        "fewer_opportunities": {
+          "N": 2
+        },
+        "disadvantaged_background": {
+          "N": 2
+        }
+      },
+      "source": "PT - Portugal",
+      "target": "TR - Turkey"
+    },
+    {
+      "weight": 14,
+      "metadata": {
+        "sender_org": {
+          "thorengruppen ab thor\u00e9n business school g\u00e4vle holmparken 1 80310 g\u00e4vle": 1,
+          "lidens skola": 3,
+          "kunskapsskolan enk\u00f6ping": 1
+        },
+        "receiver_org": {
+          "ies san mateo": 1,
+          "ies francisco de orellana": 3,
+          "ies carthago spartaria": 1
+        },
+        "start_months": {
+          "11": 4,
+          "12": 1
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 5
+        },
+        "special_needs": {
+          "N": 5
+        },
+        "fewer_opportunities": {
+          "N": 4,
+          "Y": 1
+        },
+        "disadvantaged_background": {
+          "N": 5
+        }
+      },
+      "source": "SE - Sweden",
+      "target": "ES - Spain"
+    },
+    {
+      "weight": 15,
+      "metadata": {
+        "sender_org": {
+          "gymnasieskolor i syd ab": 5
+        },
+        "receiver_org": {
+          "coll\u00e8ge du servois": 5
+        },
+        "start_months": {
+          "11": 5
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 5
+        },
+        "special_needs": {
+          "N": 5
+        },
+        "fewer_opportunities": {
+          "N": 5
+        },
+        "disadvantaged_background": {
+          "N": 5
+        }
+      },
+      "source": "SE - Sweden",
+      "target": "FR - France"
+    },
+    {
+      "weight": 4,
+      "metadata": {
+        "sender_org": {
+          "fridagymnasiet": 3
+        },
+        "receiver_org": {
+          "hak ybbs": 3
+        },
+        "start_months": {
+          "12": 3
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 3
+        },
+        "special_needs": {
+          "N": 3
+        },
+        "fewer_opportunities": {
+          "N": 3
+        },
+        "disadvantaged_background": {
+          "N": 3
+        }
+      },
+      "source": "SE - Sweden",
+      "target": "AT - Austria"
+    },
+    {
+      "weight": 3,
+      "metadata": {
+        "sender_org": {
+          "uddevalla gymnasieskola": 2
+        },
+        "receiver_org": {
+          "bayrampasa tuna mesleki ve teknik anadolu lisesi": 2
+        },
+        "start_months": {
+          "11": 2
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 2
+        },
+        "special_needs": {
+          "N": 2
+        },
+        "fewer_opportunities": {
+          "N": 2
+        },
+        "disadvantaged_background": {
+          "N": 2
+        }
+      },
+      "source": "SE - Sweden",
+      "target": "TR - Turkey"
+    },
+    {
+      "weight": 2,
+      "metadata": {
+        "sender_org": {
+          "uddevalla gymnasieskola": 1
+        },
+        "receiver_org": {
+          "kogeka 8": 1
+        },
+        "start_months": {
+          "12": 1
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 1
+        },
+        "special_needs": {
+          "N": 1
+        },
+        "fewer_opportunities": {
+          "N": 1
+        },
+        "disadvantaged_background": {
+          "N": 1
+        }
+      },
+      "source": "SE - Sweden",
+      "target": "BE - Belgium"
+    },
+    {
+      "weight": 6,
+      "metadata": {
+        "sender_org": {
+          "lena videreg\u00e5ende skole": 4
+        },
+        "receiver_org": {
+          "ramsgrange community school": 4
+        },
+        "start_months": {
+          "11": 4
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 4
+        },
+        "special_needs": {
+          "N": 4
+        },
+        "fewer_opportunities": {
+          "N": 4
+        },
+        "disadvantaged_background": {
+          "N": 4
+        }
+      },
+      "source": "NO - Norway",
+      "target": "IE - Ireland"
+    },
+    {
+      "weight": 1,
+      "metadata": {
+        "sender_org": {
+          "bore ungdomsskule": 1
+        },
+        "receiver_org": {
+          "ogec de vaugneray college saint sebastien": 1
+        },
+        "start_months": {
+          "9": 1
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 1
+        },
+        "special_needs": {
+          "N": 1
+        },
+        "fewer_opportunities": {
+          "N": 1
+        },
+        "disadvantaged_background": {
+          "N": 1
+        }
+      },
+      "source": "NO - Norway",
+      "target": "FR - France"
+    },
+    {
+      "weight": 4,
+      "metadata": {
+        "sender_org": {
+          "os vidaraeg\u00e5ande skule": 2
+        },
+        "receiver_org": {
+          "hak ybbs": 2
+        },
+        "start_months": {
+          "12": 2
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 2
+        },
+        "special_needs": {
+          "N": 2
+        },
+        "fewer_opportunities": {
+          "N": 2
+        },
+        "disadvantaged_background": {
+          "N": 2
+        }
+      },
+      "source": "NO - Norway",
+      "target": "AT - Austria"
+    },
+    {
+      "weight": 3,
+      "metadata": {
+        "sender_org": {
+          "lillesand ungdomsskole": 1
+        },
+        "receiver_org": {
+          "colegiul national \"iosif vulcan\"": 1
+        },
+        "start_months": {
+          "11": 1
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 1
+        },
+        "special_needs": {
+          "N": 1
+        },
+        "fewer_opportunities": {
+          "N": 1
+        },
+        "disadvantaged_background": {
+          "N": 1
+        }
+      },
+      "source": "NO - Norway",
+      "target": "RO - Romania"
+    },
+    {
+      "weight": 8,
+      "metadata": {
+        "sender_org": {
+          "by\u00e5sen videreg\u00e5ende skole": 3
+        },
+        "receiver_org": {
+          "katolicka szkola podstawowa im ks jana twardowskiego": 3
+        },
+        "start_months": {
+          "12": 3
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 3
+        },
+        "special_needs": {
+          "N": 3
+        },
+        "fewer_opportunities": {
+          "N": 3
+        },
+        "disadvantaged_background": {
+          "N": 3
+        }
+      },
+      "source": "NO - Norway",
+      "target": "PL - Poland"
+    },
+    {
+      "weight": 4,
+      "metadata": {
+        "sender_org": {
+          "horten videreg\u00e5ende skole": 2
+        },
+        "receiver_org": {
+          "henfling-gymnasium": 2
+        },
+        "start_months": {
+          "11": 2
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 2
+        },
+        "special_needs": {
+          "N": 2
+        },
+        "fewer_opportunities": {
+          "N": 2
+        },
+        "disadvantaged_background": {
+          "N": 2
+        }
+      },
+      "source": "NO - Norway",
+      "target": "DE - Germany"
+    },
+    {
+      "weight": 4,
+      "metadata": {
+        "sender_org": {
+          "mosj\u00f8en videreg\u00e5ende skole": 1
+        },
+        "receiver_org": {
+          "ny\u00edregyh\u00e1zi szc sz\u00e9chenyi istv\u00e1n technikum \u00e9s koll\u00e9gium": 1
+        },
+        "start_months": {
+          "11": 1
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 1
+        },
+        "special_needs": {
+          "N": 1
+        },
+        "fewer_opportunities": {
+          "N": 1
+        },
+        "disadvantaged_background": {
+          "N": 1
+        }
+      },
+      "source": "NO - Norway",
+      "target": "HU - Hungary"
+    },
+    {
+      "weight": 2,
+      "metadata": {
+        "sender_org": {
+          "archbishop ilsley catholic school": 2
+        },
+        "receiver_org": {
+          "institut notre-dame de thuin": 2
+        },
+        "start_months": {
+          "11": 2
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 2
+        },
+        "special_needs": {
+          "N": 2
+        },
+        "fewer_opportunities": {
+          "N": 1,
+          "Y": 1
+        },
+        "disadvantaged_background": {
+          "N": 2
+        }
+      },
+      "source": "UK - United Kingdom",
+      "target": "BE - Belgium"
+    },
+    {
+      "weight": 8,
+      "metadata": {
+        "sender_org": {
+          "ysgol gyfun gymraeg bro myrddin": 4
+        },
+        "receiver_org": {
+          "holluf pile skole": 4
+        },
+        "start_months": {
+          "11": 4
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 4
+        },
+        "special_needs": {
+          "N": 4
+        },
+        "fewer_opportunities": {
+          "N": 4
+        },
+        "disadvantaged_background": {
+          "N": 4
+        }
+      },
+      "source": "UK - United Kingdom",
+      "target": "DK - Denmark"
+    },
+    {
+      "weight": 10,
+      "metadata": {
+        "sender_org": {
+          "the whitby high school": 4,
+          "lakeside primary school": 3
+        },
+        "receiver_org": {
+          "ies santa catalina de alejandria": 4,
+          "ies francisco de orellana": 3
+        },
+        "start_months": {
+          "11": 7
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 7
+        },
+        "special_needs": {
+          "N": 5,
+          "Y": 2
+        },
+        "fewer_opportunities": {
+          "N": 6,
+          "Y": 1
+        },
+        "disadvantaged_background": {
+          "N": 7
+        }
+      },
+      "source": "UK - United Kingdom",
+      "target": "ES - Spain"
+    },
+    {
+      "weight": 10,
+      "metadata": {
+        "sender_org": {
+          "the king's school": 2
+        },
+        "receiver_org": {
+          "chrzescijanskie gimnazjum im. krola dawida w poznaniu": 2
+        },
+        "start_months": {
+          "9": 2
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 2
+        },
+        "special_needs": {
+          "N": 2
+        },
+        "fewer_opportunities": {
+          "N": 2
+        },
+        "disadvantaged_background": {
+          "N": 2
+        }
+      },
+      "source": "UK - United Kingdom",
+      "target": "PL - Poland"
+    },
+    {
+      "weight": 4,
+      "metadata": {
+        "sender_org": {
+          "bundeshandelsakademie hallein": 2
+        },
+        "receiver_org": {
+          "ies san mateo": 2
+        },
+        "start_months": {
+          "11": 2
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 2
+        },
+        "special_needs": {
+          "N": 2
+        },
+        "fewer_opportunities": {
+          "N": 2
+        },
+        "disadvantaged_background": {
+          "N": 2
+        }
+      },
+      "source": "AT - Austria",
+      "target": "ES - Spain"
+    },
+    {
+      "weight": 10,
+      "metadata": {
+        "sender_org": {
+          "landwirtschaftliche berufs- und fachschule andorf": 1,
+          "htl weiz": 2
+        },
+        "receiver_org": {
+          "staatl. berufsfachschule f\u00fcr ern\u00e4hrung und versorgung": 1,
+          "heinrich-wieland-schule": 2
+        },
+        "start_months": {
+          "12": 3
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 3
+        },
+        "special_needs": {
+          "N": 3
+        },
+        "fewer_opportunities": {
+          "N": 3
+        },
+        "disadvantaged_background": {
+          "N": 3
+        }
+      },
+      "source": "AT - Austria",
+      "target": "DE - Germany"
+    },
+    {
+      "weight": 4,
+      "metadata": {
+        "sender_org": {
+          "grgorg22heustadelgasse4": 1
+        },
+        "receiver_org": {
+          "sabro-korsvejskolen": 1
+        },
+        "start_months": {
+          "11": 1
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 1
+        },
+        "special_needs": {
+          "N": 1
+        },
+        "fewer_opportunities": {
+          "N": 1
+        },
+        "disadvantaged_background": {
+          "N": 1
+        }
+      },
+      "source": "AT - Austria",
+      "target": "DK - Denmark"
+    },
+    {
+      "weight": 4,
+      "metadata": {
+        "sender_org": {
+          "polytechnische schule gmunden": 3
+        },
+        "receiver_org": {
+          "ventspils 2,pamatskola": 3
+        },
+        "start_months": {
+          "11": 3
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 3
+        },
+        "special_needs": {
+          "N": 3
+        },
+        "fewer_opportunities": {
+          "N": 3
+        },
+        "disadvantaged_background": {
+          "N": 3
+        }
+      },
+      "source": "AT - Austria",
+      "target": "LV - Latvia"
+    },
+    {
+      "weight": 8,
+      "metadata": {
+        "sender_org": {
+          "lykeio apostolon petrou & pavlou": 2
+        },
+        "receiver_org": {
+          "hjalleseskolen": 2
+        },
+        "start_months": {
+          "11": 2
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 2
+        },
+        "special_needs": {
+          "N": 2
+        },
+        "fewer_opportunities": {
+          "N": 2
+        },
+        "disadvantaged_background": {
+          "N": 2
+        }
+      },
+      "source": "CY - Cyprus",
+      "target": "DK - Denmark"
+    },
+    {
+      "weight": 9,
+      "metadata": {
+        "sender_org": {
+          "lykeio aradippou": 3
+        },
+        "receiver_org": {
+          "3rd lyceum of koropi": 3
+        },
+        "start_months": {
+          "11": 3
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 3
+        },
+        "special_needs": {
+          "N": 3
+        },
+        "fewer_opportunities": {
+          "N": 3
+        },
+        "disadvantaged_background": {
+          "N": 3
+        }
+      },
+      "source": "CY - Cyprus",
+      "target": "EL - Greece"
+    },
+    {
+      "weight": 6,
+      "metadata": {
+        "sender_org": {
+          "solski center celje": 2
+        },
+        "receiver_org": {
+          "heinrich-wieland-schule": 2
+        },
+        "start_months": {
+          "12": 2
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 2
+        },
+        "special_needs": {
+          "N": 2
+        },
+        "fewer_opportunities": {
+          "N": 2
+        },
+        "disadvantaged_background": {
+          "N": 2
+        }
+      },
+      "source": "SI - Slovenia",
+      "target": "DE - Germany"
+    },
+    {
+      "weight": 4,
+      "metadata": {
+        "sender_org": {
+          "gimnazija jurija vege idrija": 2
+        },
+        "receiver_org": {
+          "sabro-korsvejskolen": 2
+        },
+        "start_months": {
+          "11": 2
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 2
+        },
+        "special_needs": {
+          "N": 2
+        },
+        "fewer_opportunities": {
+          "N": 2
+        },
+        "disadvantaged_background": {
+          "N": 2
+        }
+      },
+      "source": "SI - Slovenia",
+      "target": "DK - Denmark"
+    },
+    {
+      "weight": 6,
+      "metadata": {
+        "sender_org": {
+          "osnovna sola riharda jakopica": 1
+        },
+        "receiver_org": {
+          "katolicka szkola podstawowa im ks jana twardowskiego": 1
+        },
+        "start_months": {
+          "12": 1
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 1
+        },
+        "special_needs": {
+          "N": 1
+        },
+        "fewer_opportunities": {
+          "N": 1
+        },
+        "disadvantaged_background": {
+          "N": 1
+        }
+      },
+      "source": "SI - Slovenia",
+      "target": "PL - Poland"
+    },
+    {
+      "weight": 13,
+      "metadata": {
+        "sender_org": {
+          "zavod sv. stanislava": 6
+        },
+        "receiver_org": {
+          "kongshavn videreg\u00e5ende skole": 6
+        },
+        "start_months": {
+          "11": 6
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 6
+        },
+        "special_needs": {
+          "N": 6
+        },
+        "fewer_opportunities": {
+          "N": 6
+        },
+        "disadvantaged_background": {
+          "N": 6
+        }
+      },
+      "source": "SI - Slovenia",
+      "target": "NO - Norway"
+    },
+    {
+      "weight": 4,
+      "metadata": {
+        "sender_org": {
+          "hyria koulutus oy": 3
+        },
+        "receiver_org": {
+          "staatl. berufsfachschule f\u00fcr ern\u00e4hrung und versorgung": 3
+        },
+        "start_months": {
+          "12": 3
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 3
+        },
+        "special_needs": {
+          "N": 3
+        },
+        "fewer_opportunities": {
+          "N": 3
+        },
+        "disadvantaged_background": {
+          "N": 3
+        }
+      },
+      "source": "FI - Finland",
+      "target": "DE - Germany"
+    },
+    {
+      "weight": 16,
+      "metadata": {
+        "sender_org": {
+          "hatanp\u00e4\u00e4n lukio": 4,
+          "lauttasaaren ala-asteen koulu": 1,
+          "koivusaaren koulu": 3
+        },
+        "receiver_org": {
+          "i liceum ogolnoksztalcace im. marii sklodowskiej - curie w szczecinie": 4,
+          "szkola podstawowa nr 112 z oddzialami integracyjnymi im. marii kownackiej": 1,
+          "zespol szkol nr 7 szkola podstawowa nr 12 gimnazjum nr 8 gdynia": 3
+        },
+        "start_months": {
+          "12": 4,
+          "11": 4
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 8
+        },
+        "special_needs": {
+          "N": 8
+        },
+        "fewer_opportunities": {
+          "N": 8
+        },
+        "disadvantaged_background": {
+          "N": 8
+        }
+      },
+      "source": "FI - Finland",
+      "target": "PL - Poland"
+    },
+    {
+      "weight": 11,
+      "metadata": {
+        "sender_org": {
+          "pietarsaaren lukio": 1,
+          "laanilan koulu, oulun kaupunki": 5
+        },
+        "receiver_org": {
+          "sabro-korsvejskolen": 1,
+          "hjalleseskolen": 1,
+          "holluf pile skole": 4
+        },
+        "start_months": {
+          "11": 6
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 6
+        },
+        "special_needs": {
+          "N": 4,
+          "Y": 2
+        },
+        "fewer_opportunities": {
+          "N": 6
+        },
+        "disadvantaged_background": {
+          "N": 6
+        }
+      },
+      "source": "FI - Finland",
+      "target": "DK - Denmark"
+    },
+    {
+      "weight": 2,
+      "metadata": {
+        "sender_org": {
+          "botby grundskola": 1
+        },
+        "receiver_org": {
+          "\"peyo yavorov\"": 1
+        },
+        "start_months": {
+          "12": 1
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 1
+        },
+        "special_needs": {
+          "N": 1
+        },
+        "fewer_opportunities": {
+          "N": 1
+        },
+        "disadvantaged_background": {
+          "N": 1
+        }
+      },
+      "source": "FI - Finland",
+      "target": "BG - Bulgaria"
+    },
+    {
+      "weight": 19,
+      "metadata": {
+        "sender_org": {
+          "kuopion klassillinen lukio": 1,
+          "karstulan lukio": 2
+        },
+        "receiver_org": {
+          "colegio diocesano san at\u00f3n": 1,
+          "ies isbilya": 2
+        },
+        "start_months": {
+          "12": 1,
+          "11": 2
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 3
+        },
+        "special_needs": {
+          "N": 3
+        },
+        "fewer_opportunities": {
+          "N": 3
+        },
+        "disadvantaged_background": {
+          "N": 3
+        }
+      },
+      "source": "FI - Finland",
+      "target": "ES - Spain"
+    },
+    {
+      "weight": 3,
+      "metadata": {
+        "sender_org": {
+          "lappeenrannan lyseon lukio": 1
+        },
+        "receiver_org": {
+          "agrupamento de escolas do barreiro": 1
+        },
+        "start_months": {
+          "12": 1
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 1
+        },
+        "special_needs": {
+          "N": 1
+        },
+        "fewer_opportunities": {
+          "N": 1
+        },
+        "disadvantaged_background": {
+          "N": 1
+        }
+      },
+      "source": "FI - Finland",
+      "target": "PT - Portugal"
+    },
+    {
+      "weight": 6,
+      "metadata": {
+        "sender_org": {
+          "ursulinen mechelen 2": 4
+        },
+        "receiver_org": {
+          "ramsgrange community school": 4
+        },
+        "start_months": {
+          "11": 4
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 4
+        },
+        "special_needs": {
+          "N": 4
+        },
+        "fewer_opportunities": {
+          "N": 4
+        },
+        "disadvantaged_background": {
+          "N": 4
+        }
+      },
+      "source": "BE - Belgium",
+      "target": "IE - Ireland"
+    },
+    {
+      "weight": 2,
+      "metadata": {
+        "sender_org": {
+          "'t schoolhuis": 2
+        },
+        "receiver_org": {
+          "\"peyo yavorov\"": 2
+        },
+        "start_months": {
+          "12": 2
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 2
+        },
+        "special_needs": {
+          "N": 2
+        },
+        "fewer_opportunities": {
+          "N": 2
+        },
+        "disadvantaged_background": {
+          "N": 2
+        }
+      },
+      "source": "BE - Belgium",
+      "target": "BG - Bulgaria"
+    },
+    {
+      "weight": 14,
+      "metadata": {
+        "sender_org": {
+          "sint-calasanzinstituut": 4
+        },
+        "receiver_org": {
+          "zavod sv. stanislava": 4
+        },
+        "start_months": {
+          "10": 4
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 4
+        },
+        "special_needs": {
+          "N": 4
+        },
+        "fewer_opportunities": {
+          "N": 4
+        },
+        "disadvantaged_background": {
+          "N": 4
+        }
+      },
+      "source": "BE - Belgium",
+      "target": "SI - Slovenia"
+    },
+    {
+      "weight": 5,
+      "metadata": {
+        "sender_org": {
+          "kogeka 8": 3,
+          "go! basisschool schaarbeek hendrik conscience": 2
+        },
+        "receiver_org": {
+          "bayrampasa tuna anadolu lisesi": 3,
+          "k\u00fc\u00e7\u00fck\u00e7ekmece imkb yavuz sultan selim secondary school": 2
+        },
+        "start_months": {
+          "11": 3,
+          "12": 2
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 5
+        },
+        "special_needs": {
+          "N": 5
+        },
+        "fewer_opportunities": {
+          "N": 5
+        },
+        "disadvantaged_background": {
+          "N": 5
+        }
+      },
+      "source": "BE - Belgium",
+      "target": "TR - Turkey"
+    },
+    {
+      "weight": 2,
+      "metadata": {
+        "sender_org": {
+          "st. patrick's salesian school": 1
+        },
+        "receiver_org": {
+          "st. patrick's salesian school": 1
+        },
+        "start_months": {
+          "9": 1
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 1
+        },
+        "special_needs": {
+          "N": 1
+        },
+        "fewer_opportunities": {
+          "N": 1
+        },
+        "disadvantaged_background": {
+          "N": 1
+        }
+      },
+      "source": "MT - Malta",
+      "target": "MT - Malta"
+    },
+    {
+      "weight": 7,
+      "metadata": {
+        "sender_org": {
+          "st. patrick's salesian school": 3
+        },
+        "receiver_org": {
+          "salesianos inspectoria de san juan bosco comunidad nuestra se\u00f1ora del pilar": 3
+        },
+        "start_months": {
+          "9": 3
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 3
+        },
+        "special_needs": {
+          "N": 3
+        },
+        "fewer_opportunities": {
+          "N": 2,
+          "Y": 1
+        },
+        "disadvantaged_background": {
+          "N": 3
+        }
+      },
+      "source": "MT - Malta",
+      "target": "ES - Spain"
+    },
+    {
+      "weight": 5,
+      "metadata": {
+        "sender_org": {
+          "angel kanchev third secondary school": 1
+        },
+        "receiver_org": {
+          "inda-gymnasium": 1
+        },
+        "start_months": {
+          "12": 1
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 1
+        },
+        "special_needs": {
+          "N": 1
+        },
+        "fewer_opportunities": {
+          "N": 1
+        },
+        "disadvantaged_background": {
+          "N": 1
+        }
+      },
+      "source": "BG - Bulgaria",
+      "target": "DE - Germany"
+    },
+    {
+      "weight": 3,
+      "metadata": {
+        "sender_org": {
+          "souee \"konstantin-kiril filosof\"": 1
+        },
+        "receiver_org": {
+          "colegiul national \"iosif vulcan\"": 1
+        },
+        "start_months": {
+          "11": 1
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 1
+        },
+        "special_needs": {
+          "N": 1
+        },
+        "fewer_opportunities": {
+          "N": 1
+        },
+        "disadvantaged_background": {
+          "N": 1
+        }
+      },
+      "source": "BG - Bulgaria",
+      "target": "RO - Romania"
+    },
+    {
+      "weight": 2,
+      "metadata": {
+        "sender_org": {
+          "sportno uchilishte\"georgi benkovski\" pleven": 2
+        },
+        "receiver_org": {
+          "zespol szkol nr 7 szkola podstawowa nr 12 gimnazjum nr 8 gdynia": 2
+        },
+        "start_months": {
+          "11": 2
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 2
+        },
+        "special_needs": {
+          "N": 2
+        },
+        "fewer_opportunities": {
+          "N": 2
+        },
+        "disadvantaged_background": {
+          "N": 2
+        }
+      },
+      "source": "BG - Bulgaria",
+      "target": "PL - Poland"
+    },
+    {
+      "weight": 6,
+      "metadata": {
+        "sender_org": {
+          "ventspils 4.vidusskola": 2
+        },
+        "receiver_org": {
+          "i liceum ogolnoksztalcace im. marii sklodowskiej - curie w szczecinie": 2
+        },
+        "start_months": {
+          "12": 2
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 2
+        },
+        "special_needs": {
+          "N": 2
+        },
+        "fewer_opportunities": {
+          "N": 2
+        },
+        "disadvantaged_background": {
+          "N": 2
+        }
+      },
+      "source": "LV - Latvia",
+      "target": "PL - Poland"
+    },
+    {
+      "weight": 4,
+      "metadata": {
+        "sender_org": {
+          "rigas sergeja zoltoka vidusskola": 3
+        },
+        "receiver_org": {
+          "ny\u00edregyh\u00e1zi szc sz\u00e9chenyi istv\u00e1n k\u00f6zgazdas\u00e1gi, informatikai szakgimn\u00e1ziuma \u00e9s koll\u00e9giuma": 3
+        },
+        "start_months": {
+          "11": 3
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 3
+        },
+        "special_needs": {
+          "N": 3
+        },
+        "fewer_opportunities": {
+          "N": 3
+        },
+        "disadvantaged_background": {
+          "N": 3
+        }
+      },
+      "source": "LV - Latvia",
+      "target": "HU - Hungary"
+    },
+    {
+      "weight": 8,
+      "metadata": {
+        "sender_org": {
+          "stredn\u00e1 odborn\u00e1 skola": 3
+        },
+        "receiver_org": {
+          "bhak/bhas g\u00e4nserndorf": 3
+        },
+        "start_months": {
+          "11": 3
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 3
+        },
+        "special_needs": {
+          "N": 3
+        },
+        "fewer_opportunities": {
+          "N": 3
+        },
+        "disadvantaged_background": {
+          "N": 3
+        }
+      },
+      "source": "SK - Slovakia",
+      "target": "AT - Austria"
+    },
+    {
+      "weight": 25,
+      "metadata": {
+        "sender_org": {
+          "gymnazium konstantinova 2": 5,
+          "gymnazium - gimnazium, horesska 18, kralovsky chlmec": 2
+        },
+        "receiver_org": {
+          "berufliche schulen landsberg am lech": 5,
+          "henfling-gymnasium": 2
+        },
+        "start_months": {
+          "9": 5,
+          "11": 2
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 7
+        },
+        "special_needs": {
+          "N": 7
+        },
+        "fewer_opportunities": {
+          "N": 7
+        },
+        "disadvantaged_background": {
+          "N": 7
+        }
+      },
+      "source": "SK - Slovakia",
+      "target": "DE - Germany"
+    },
+    {
+      "weight": 3,
+      "metadata": {
+        "sender_org": {
+          "gymnazium mikulasa kovaca": 2
+        },
+        "receiver_org": {
+          "agrupamento de escolas do barreiro": 2
+        },
+        "start_months": {
+          "12": 2
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 2
+        },
+        "special_needs": {
+          "N": 2
+        },
+        "fewer_opportunities": {
+          "N": 2
+        },
+        "disadvantaged_background": {
+          "N": 2
+        }
+      },
+      "source": "SK - Slovakia",
+      "target": "PT - Portugal"
+    },
+    {
+      "weight": 10,
+      "metadata": {
+        "sender_org": {
+          "lycee de l'arc orange": 4,
+          "association ecole massillon": 1
+        },
+        "receiver_org": {
+          "i liceum ogolnoksztalcace im. marii sklodowskiej - curie w szczecinie": 4,
+          "szkola podstawowa nr 112 z oddzialami integracyjnymi im. marii kownackiej": 1
+        },
+        "start_months": {
+          "12": 4,
+          "11": 1
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 5
+        },
+        "special_needs": {
+          "N": 5
+        },
+        "fewer_opportunities": {
+          "N": 5
+        },
+        "disadvantaged_background": {
+          "N": 5
+        }
+      },
+      "source": "FR - France",
+      "target": "PL - Poland"
+    },
+    {
+      "weight": 39,
+      "metadata": {
+        "sender_org": {
+          "lycee sud medoc": 2,
+          "cit\u00e9 scolaire internationale": 7,
+          "ogec sainte therese les buissonnet": 5
+        },
+        "receiver_org": {
+          "colegio diocesano san at\u00f3n": 2,
+          "i.e.s. gustavo adolfo b\u00e9cquer": 7,
+          "i.e.s. juan de mairena": 5
+        },
+        "start_months": {
+          "12": 14
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 14
+        },
+        "special_needs": {
+          "N": 14
+        },
+        "fewer_opportunities": {
+          "N": 14
+        },
+        "disadvantaged_background": {
+          "N": 14
+        }
+      },
+      "source": "FR - France",
+      "target": "ES - Spain"
+    },
+    {
+      "weight": 51,
+      "metadata": {
+        "sender_org": {
+          "lycee mariette": 6,
+          "lyc\u00e9e polyvalent r\u00e9gional p & m curie menton": 7
+        },
+        "receiver_org": {
+          "istituto istruzione superiore cattaneo-mattei": 6,
+          "liceo classico scientifico \"i. newton\"": 7
+        },
+        "start_months": {
+          "11": 13
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 13
+        },
+        "special_needs": {
+          "N": 13
+        },
+        "fewer_opportunities": {
+          "N": 12,
+          "Y": 1
+        },
+        "disadvantaged_background": {
+          "N": 13
+        }
+      },
+      "source": "FR - France",
+      "target": "IT - Italy"
+    },
+    {
+      "weight": 4,
+      "metadata": {
+        "sender_org": {
+          "coll\u00e8ge d'afareaitu": 2
+        },
+        "receiver_org": {
+          "kauno versvu vidurine mokykla": 2
+        },
+        "start_months": {
+          "12": 2
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 2
+        },
+        "special_needs": {
+          "N": 2
+        },
+        "fewer_opportunities": {
+          "N": 2
+        },
+        "disadvantaged_background": {
+          "N": 2
+        }
+      },
+      "source": "FR - France",
+      "target": "LT - Lithuania"
+    },
+    {
+      "weight": 6,
+      "metadata": {
+        "sender_org": {
+          "coll\u00e8ge andr\u00e9 malraux compi\u00e8gne": 1
+        },
+        "receiver_org": {
+          "7th high school of corfu": 1
+        },
+        "start_months": {
+          "12": 1
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 1
+        },
+        "special_needs": {
+          "N": 1
+        },
+        "fewer_opportunities": {
+          "Y": 1
+        },
+        "disadvantaged_background": {
+          "N": 1
+        }
+      },
+      "source": "FR - France",
+      "target": "EL - Greece"
+    },
+    {
+      "weight": 3,
+      "metadata": {
+        "sender_org": {
+          "lyc\u00e9e jean-pierre timbaud": 2
+        },
+        "receiver_org": {
+          "119 secondary school \"academician mihail arnaudov\"": 2
+        },
+        "start_months": {
+          "12": 2
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 2
+        },
+        "special_needs": {
+          "N": 2
+        },
+        "fewer_opportunities": {
+          "N": 2
+        },
+        "disadvantaged_background": {
+          "N": 2
+        }
+      },
+      "source": "FR - France",
+      "target": "BG - Bulgaria"
+    },
+    {
+      "weight": 3,
+      "metadata": {
+        "sender_org": {
+          "lyc\u00e9e jean bouin": 1
+        },
+        "receiver_org": {
+          "kogeka 8": 1
+        },
+        "start_months": {
+          "12": 1
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 1
+        },
+        "special_needs": {
+          "N": 1
+        },
+        "fewer_opportunities": {
+          "N": 1
+        },
+        "disadvantaged_background": {
+          "N": 1
+        }
+      },
+      "source": "FR - France",
+      "target": "BE - Belgium"
+    },
+    {
+      "weight": 6,
+      "metadata": {
+        "sender_org": {
+          "gospodarska skola istituto professionale": 2
+        },
+        "receiver_org": {
+          "obchodna akademia, jesenskeho 259/6, povazska bystrica": 2
+        },
+        "start_months": {
+          "12": 2
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 2
+        },
+        "special_needs": {
+          "N": 2
+        },
+        "fewer_opportunities": {
+          "N": 2
+        },
+        "disadvantaged_background": {
+          "N": 2
+        }
+      },
+      "source": "HR - Croatia",
+      "target": "SK - Slovakia"
+    },
+    {
+      "weight": 3,
+      "metadata": {
+        "sender_org": {
+          "osnovna skola bartola kasica": 1
+        },
+        "receiver_org": {
+          "zespol szkol nr 7 szkola podstawowa nr 12 gimnazjum nr 8 gdynia": 1
+        },
+        "start_months": {
+          "11": 1
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 1
+        },
+        "special_needs": {
+          "N": 1
+        },
+        "fewer_opportunities": {
+          "N": 1
+        },
+        "disadvantaged_background": {
+          "N": 1
+        }
+      },
+      "source": "HR - Croatia",
+      "target": "PL - Poland"
+    },
+    {
+      "weight": 4,
+      "metadata": {
+        "sender_org": {
+          "turisticko ugostiteljska skola split": 2
+        },
+        "receiver_org": {
+          "zakladni skola ostrava, nadrazni 117, p.o.": 2
+        },
+        "start_months": {
+          "12": 2
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 2
+        },
+        "special_needs": {
+          "N": 2
+        },
+        "fewer_opportunities": {
+          "N": 2
+        },
+        "disadvantaged_background": {
+          "N": 2
+        }
+      },
+      "source": "HR - Croatia",
+      "target": "CZ - Czechia"
+    },
+    {
+      "weight": 8,
+      "metadata": {
+        "sender_org": {
+          "kilimli anadolu lisesi": 5
+        },
+        "receiver_org": {
+          "bhak/bhas g\u00e4nserndorf": 5
+        },
+        "start_months": {
+          "12": 5
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 5
+        },
+        "special_needs": {
+          "N": 5
+        },
+        "fewer_opportunities": {
+          "Y": 5
+        },
+        "disadvantaged_background": {
+          "N": 5
+        }
+      },
+      "source": "TR - Turkey",
+      "target": "AT - Austria"
+    },
+    {
+      "weight": 21,
+      "metadata": {
+        "sender_org": {
+          "resat turhan ortaokulu": 2,
+          "emlakbank s\u00fcleyman demirel anadolu lisesi": 1,
+          "gazi ortaokulu": 3,
+          "sadika sabanci ortaokulu": 3
+        },
+        "receiver_org": {
+          "grundschule im beerwinkel": 2,
+          "aldegrever-gymnasium": 1,
+          "inda-gymnasium": 3,
+          "henfling-gymnasium": 3
+        },
+        "start_months": {
+          "12": 6,
+          "11": 3
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 9
+        },
+        "special_needs": {
+          "N": 9
+        },
+        "fewer_opportunities": {
+          "N": 9
+        },
+        "disadvantaged_background": {
+          "N": 9
+        }
+      },
+      "source": "TR - Turkey",
+      "target": "DE - Germany"
+    },
+    {
+      "weight": 9,
+      "metadata": {
+        "sender_org": {
+          "kar\u015f\u0131yaka t\u00fcpra\u015f mesleki ve teknik anadolu lisesi": 7
+        },
+        "receiver_org": {
+          "obchodna akademia, jesenskeho 259/6, povazska bystrica": 7
+        },
+        "start_months": {
+          "12": 7
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 7
+        },
+        "special_needs": {
+          "N": 7
+        },
+        "fewer_opportunities": {
+          "N": 7
+        },
+        "disadvantaged_background": {
+          "N": 7
+        }
+      },
+      "source": "TR - Turkey",
+      "target": "SK - Slovakia"
+    },
+    {
+      "weight": 6,
+      "metadata": {
+        "sender_org": {
+          "alibeykoy anadolu lisesi": 2
+        },
+        "receiver_org": {
+          "1st general lyceum of levadia": 2
+        },
+        "start_months": {
+          "12": 2
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 2
+        },
+        "special_needs": {
+          "N": 2
+        },
+        "fewer_opportunities": {
+          "N": 2
+        },
+        "disadvantaged_background": {
+          "N": 2
+        }
+      },
+      "source": "TR - Turkey",
+      "target": "EL - Greece"
+    },
+    {
+      "weight": 2,
+      "metadata": {
+        "sender_org": {
+          "ibrahim hosver ortaokulu": 1
+        },
+        "receiver_org": {
+          "\"peyo yavorov\"": 1
+        },
+        "start_months": {
+          "12": 1
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 1
+        },
+        "special_needs": {
+          "N": 1
+        },
+        "fewer_opportunities": {
+          "N": 1
+        },
+        "disadvantaged_background": {
+          "N": 1
+        }
+      },
+      "source": "TR - Turkey",
+      "target": "BG - Bulgaria"
+    },
+    {
+      "weight": 17,
+      "metadata": {
+        "sender_org": {
+          "ozel darussafaka lisesi": 2,
+          "kandilli kiz anadolu lisesi": 3,
+          "plevne ilkokulu": 2,
+          "burhan felek anadolu lisesi": 1
+        },
+        "receiver_org": {
+          "colegio diocesano san at\u00f3n": 2,
+          "ies francisco de orellana": 3,
+          "ceip isaac alb\u00e9niz": 2,
+          "ies carthago spartaria": 1
+        },
+        "start_months": {
+          "12": 5,
+          "11": 3
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 8
+        },
+        "special_needs": {
+          "N": 8
+        },
+        "fewer_opportunities": {
+          "N": 8
+        },
+        "disadvantaged_background": {
+          "N": 8
+        }
+      },
+      "source": "TR - Turkey",
+      "target": "ES - Spain"
+    },
+    {
+      "weight": 7,
+      "metadata": {
+        "sender_org": {
+          "75.yil ziya gokalp ilkokulu": 2,
+          "75.yil kocatepe ortaokulu": 2
+        },
+        "receiver_org": {
+          "szkola podstawowa z oddzialami integracyjnymi nr 112 im. marii kownackiej": 2,
+          "zespol szkol nr 7 szkola podstawowa nr 12 gimnazjum nr 8 gdynia": 2
+        },
+        "start_months": {
+          "11": 4
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 4
+        },
+        "special_needs": {
+          "N": 4
+        },
+        "fewer_opportunities": {
+          "N": 4
+        },
+        "disadvantaged_background": {
+          "N": 4
+        }
+      },
+      "source": "TR - Turkey",
+      "target": "PL - Poland"
+    },
+    {
+      "weight": 4,
+      "metadata": {
+        "sender_org": {
+          "yavuz sultan selim anadolu lisesi": 3
+        },
+        "receiver_org": {
+          "kaunas versvu gymnasium": 3
+        },
+        "start_months": {
+          "12": 3
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 3
+        },
+        "special_needs": {
+          "N": 3
+        },
+        "fewer_opportunities": {
+          "N": 3
+        },
+        "disadvantaged_background": {
+          "N": 3
+        }
+      },
+      "source": "TR - Turkey",
+      "target": "LT - Lithuania"
+    },
+    {
+      "weight": 8,
+      "metadata": {
+        "sender_org": {
+          "uskudar cagribey anadolu lisesi": 4
+        },
+        "receiver_org": {
+          "lyc\u00e9e g\u00e9n\u00e9ral et techno saint-exup\u00e9ry": 4
+        },
+        "start_months": {
+          "11": 4
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 4
+        },
+        "special_needs": {
+          "N": 4
+        },
+        "fewer_opportunities": {
+          "N": 4
+        },
+        "disadvantaged_background": {
+          "N": 4
+        }
+      },
+      "source": "TR - Turkey",
+      "target": "FR - France"
+    },
+    {
+      "weight": 8,
+      "metadata": {
+        "sender_org": {
+          "er\u00fcnal sosyal bilimler lisesi": 4,
+          "faruk nafiz camlibel anadolu lisesi": 3
+        },
+        "receiver_org": {
+          "bgszc budai k\u00f6z\u00e9piskol\u00e1ja": 4,
+          "ny\u00edregyh\u00e1zi szc sz\u00e9chenyi istv\u00e1n k\u00f6zgazdas\u00e1gi, informatikai szakgimn\u00e1ziuma \u00e9s koll\u00e9giuma": 3
+        },
+        "start_months": {
+          "11": 7
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 7
+        },
+        "special_needs": {
+          "N": 7
+        },
+        "fewer_opportunities": {
+          "N": 7
+        },
+        "disadvantaged_background": {
+          "N": 7
+        }
+      },
+      "source": "TR - Turkey",
+      "target": "HU - Hungary"
+    },
+    {
+      "weight": 2,
+      "metadata": {
+        "sender_org": {
+          "sesim sarpkaya fen lisesi": 1
+        },
+        "receiver_org": {
+          "agrupamento de escolas do barreiro": 1
+        },
+        "start_months": {
+          "12": 1
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 1
+        },
+        "special_needs": {
+          "N": 1
+        },
+        "fewer_opportunities": {
+          "N": 1
+        },
+        "disadvantaged_background": {
+          "N": 1
+        }
+      },
+      "source": "TR - Turkey",
+      "target": "PT - Portugal"
+    },
+    {
+      "weight": 4,
+      "metadata": {
+        "sender_org": {
+          "hasan sadoglu mesleki ve teknik anadolu lisesi": 3
+        },
+        "receiver_org": {
+          "istituto istruzione superiore castelnovo ne monti": 3
+        },
+        "start_months": {
+          "12": 3
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 3
+        },
+        "special_needs": {
+          "N": 3
+        },
+        "fewer_opportunities": {
+          "N": 3
+        },
+        "disadvantaged_background": {
+          "N": 3
+        }
+      },
+      "source": "TR - Turkey",
+      "target": "IT - Italy"
+    },
+    {
+      "weight": 3,
+      "metadata": {
+        "sender_org": {
+          "bayrampasa tuna mesleki ve teknik anadolu lisesi": 1
+        },
+        "receiver_org": {
+          "kogeka 8": 1
+        },
+        "start_months": {
+          "12": 1
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 1
+        },
+        "special_needs": {
+          "N": 1
+        },
+        "fewer_opportunities": {
+          "N": 1
+        },
+        "disadvantaged_background": {
+          "N": 1
+        }
+      },
+      "source": "TR - Turkey",
+      "target": "BE - Belgium"
+    },
+    {
+      "weight": 3,
+      "metadata": {
+        "sender_org": {
+          "ozel altinyildiz ilkokulu": 2
+        },
+        "receiver_org": {
+          "st vincent's catholic primary school": 2
+        },
+        "start_months": {
+          "11": 2
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 2
+        },
+        "special_needs": {
+          "N": 2
+        },
+        "fewer_opportunities": {
+          "N": 2
+        },
+        "disadvantaged_background": {
+          "N": 2
+        }
+      },
+      "source": "TR - Turkey",
+      "target": "UK - United Kingdom"
+    },
+    {
+      "weight": 39,
+      "metadata": {
+        "sender_org": {
+          "byron college": 4,
+          "13th highschool of kallithea  \"socrates\"": 5,
+          "platon m.e.p.e.": 1
+        },
+        "receiver_org": {
+          "ludwig-erhard-berufskolleg, schule der sekundarstufe ii der stadt m\u00fcnster mit wirtschaftsgymnasium": 4,
+          "grundschule im beerwinkel": 5,
+          "inda-gymnasium": 1
+        },
+        "start_months": {
+          "11": 4,
+          "12": 6
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 10
+        },
+        "special_needs": {
+          "N": 10
+        },
+        "fewer_opportunities": {
+          "N": 10
+        },
+        "disadvantaged_background": {
+          "N": 10
+        }
+      },
+      "source": "EL - Greece",
+      "target": "DE - Germany"
+    },
+    {
+      "weight": 4,
+      "metadata": {
+        "sender_org": {
+          "2nd lyceum of kos": 2
+        },
+        "receiver_org": {
+          "hak ybbs": 2
+        },
+        "start_months": {
+          "12": 2
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 2
+        },
+        "special_needs": {
+          "N": 2
+        },
+        "fewer_opportunities": {
+          "N": 2
+        },
+        "disadvantaged_background": {
+          "N": 2
+        }
+      },
+      "source": "EL - Greece",
+      "target": "AT - Austria"
+    },
+    {
+      "weight": 6,
+      "metadata": {
+        "sender_org": {
+          "gymnasio thrakomakedonon": 2,
+          "1 geniko lykeio pyrgou hleias": 2
+        },
+        "receiver_org": {
+          "\"peyo yavorov\"": 2,
+          "119 secondary school \"academician mihail arnaudov\"": 2
+        },
+        "start_months": {
+          "12": 4
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 4
+        },
+        "special_needs": {
+          "N": 4
+        },
+        "fewer_opportunities": {
+          "N": 4
+        },
+        "disadvantaged_background": {
+          "N": 4
+        }
+      },
+      "source": "EL - Greece",
+      "target": "BG - Bulgaria"
+    },
+    {
+      "weight": 2,
+      "metadata": {
+        "sender_org": {
+          "13th primary school, chalandri": 1
+        },
+        "receiver_org": {
+          "szkola podstawowa nr 112 z oddzialami integracyjnymi im. marii kownackiej": 1
+        },
+        "start_months": {
+          "11": 1
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 1
+        },
+        "special_needs": {
+          "N": 1
+        },
+        "fewer_opportunities": {
+          "N": 1
+        },
+        "disadvantaged_background": {
+          "N": 1
+        }
+      },
+      "source": "EL - Greece",
+      "target": "PL - Poland"
+    },
+    {
+      "weight": 4,
+      "metadata": {
+        "sender_org": {
+          "1st gymnasium of galatsi, athens": 1
+        },
+        "receiver_org": {
+          "kauno versvu vidurine mokykla": 1
+        },
+        "start_months": {
+          "12": 1
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 1
+        },
+        "special_needs": {
+          "N": 1
+        },
+        "fewer_opportunities": {
+          "N": 1
+        },
+        "disadvantaged_background": {
+          "N": 1
+        }
+      },
+      "source": "EL - Greece",
+      "target": "LT - Lithuania"
+    },
+    {
+      "weight": 4,
+      "metadata": {
+        "sender_org": {
+          "ekto gymnasio herakliou": 1
+        },
+        "receiver_org": {
+          "zakladni skola ostrava, nadrazni 117, p.o.": 1
+        },
+        "start_months": {
+          "12": 1
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 1
+        },
+        "special_needs": {
+          "N": 1
+        },
+        "fewer_opportunities": {
+          "N": 1
+        },
+        "disadvantaged_background": {
+          "N": 1
+        }
+      },
+      "source": "EL - Greece",
+      "target": "CZ - Czechia"
+    },
+    {
+      "weight": 4,
+      "metadata": {
+        "sender_org": {
+          "1st lyceum of kalamaria": 2
+        },
+        "receiver_org": {
+          "ny\u00edregyh\u00e1zi szc sz\u00e9chenyi istv\u00e1n k\u00f6zgazdas\u00e1gi, informatikai szakgimn\u00e1ziuma \u00e9s koll\u00e9giuma": 2
+        },
+        "start_months": {
+          "11": 2
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 2
+        },
+        "special_needs": {
+          "N": 2
+        },
+        "fewer_opportunities": {
+          "N": 2
+        },
+        "disadvantaged_background": {
+          "N": 2
+        }
+      },
+      "source": "EL - Greece",
+      "target": "HU - Hungary"
+    },
+    {
+      "weight": 5,
+      "metadata": {
+        "sender_org": {
+          "geniko lykeio argalastis": 3
+        },
+        "receiver_org": {
+          "bayrampasa tuna mesleki ve teknik anadolu lisesi": 3
+        },
+        "start_months": {
+          "11": 3
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 3
+        },
+        "special_needs": {
+          "N": 3
+        },
+        "fewer_opportunities": {
+          "N": 3
+        },
+        "disadvantaged_background": {
+          "N": 3
+        }
+      },
+      "source": "EL - Greece",
+      "target": "TR - Turkey"
+    },
+    {
+      "weight": 3,
+      "metadata": {
+        "sender_org": {
+          "2 dimotiko sxoleio alikarnassou": 2
+        },
+        "receiver_org": {
+          "st vincent's catholic primary school": 2
+        },
+        "start_months": {
+          "11": 2
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 2
+        },
+        "special_needs": {
+          "N": 2
+        },
+        "fewer_opportunities": {
+          "N": 2
+        },
+        "disadvantaged_background": {
+          "N": 2
+        }
+      },
+      "source": "EL - Greece",
+      "target": "UK - United Kingdom"
+    },
+    {
+      "weight": 10,
+      "metadata": {
+        "sender_org": {
+          "istituto d'istruzione superiore \"r. piria\"": 3
+        },
+        "receiver_org": {
+          "bhak/bhas g\u00e4nserndorf": 3
+        },
+        "start_months": {
+          "12": 3
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 3
+        },
+        "special_needs": {
+          "N": 3
+        },
+        "fewer_opportunities": {
+          "N": 3
+        },
+        "disadvantaged_background": {
+          "N": 3
+        }
+      },
+      "source": "IT - Italy",
+      "target": "AT - Austria"
+    },
+    {
+      "weight": 26,
+      "metadata": {
+        "sender_org": {
+          "imiberg s.c.r.l.": 2,
+          "istituto di istruzione superiore p.levi": 2,
+          "istituto di istruzione superiore g. mazzatinti": 1,
+          "san domenico savio": 1,
+          "liceo classico statale carlo botta": 5
+        },
+        "receiver_org": {
+          "ies san mateo": 2,
+          "ieso quercus": 2,
+          "colegio diocesano san at\u00f3n": 1,
+          "ceip isaac alb\u00e9niz": 1,
+          "i.e.s. gustavo adolfo b\u00e9cquer": 5
+        },
+        "start_months": {
+          "12": 9,
+          "10": 2
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 9,
+          "Long-term study mobility of pupils": 2
+        },
+        "special_needs": {
+          "N": 11
+        },
+        "fewer_opportunities": {
+          "N": 11
+        },
+        "disadvantaged_background": {
+          "N": 11
+        }
+      },
+      "source": "IT - Italy",
+      "target": "ES - Spain"
+    },
+    {
+      "weight": 6,
+      "metadata": {
+        "sender_org": {
+          "liceo rambaldi valeriani a. da imola": 4
+        },
+        "receiver_org": {
+          "ramsgrange community school": 4
+        },
+        "start_months": {
+          "11": 4
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 4
+        },
+        "special_needs": {
+          "N": 4
+        },
+        "fewer_opportunities": {
+          "N": 4
+        },
+        "disadvantaged_background": {
+          "N": 4
+        }
+      },
+      "source": "IT - Italy",
+      "target": "IE - Ireland"
+    },
+    {
+      "weight": 16,
+      "metadata": {
+        "sender_org": {
+          "istituto tecnico commerciale \"cesare battisti\"": 7
+        },
+        "receiver_org": {
+          "coll\u00e8ge du servois": 7
+        },
+        "start_months": {
+          "11": 7
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 7
+        },
+        "special_needs": {
+          "N": 7
+        },
+        "fewer_opportunities": {
+          "N": 7
+        },
+        "disadvantaged_background": {
+          "N": 7
+        }
+      },
+      "source": "IT - Italy",
+      "target": "FR - France"
+    },
+    {
+      "weight": 21,
+      "metadata": {
+        "sender_org": {
+          "liceo peano-pellico": 2,
+          "scuola secondaria di primo grado alighieri tanzi": 5,
+          "liceo scientifico linguistico statale  \"a. m. de carlo\"": 4,
+          "i.c.carlo alberto dalla chiesa": 2
+        },
+        "receiver_org": {
+          "i liceum ogolnoksztalcace im. marii sklodowskiej - curie w szczecinie": 2,
+          "zespol szkol w kamieniu": 5,
+          "katolicka szkola podstawowa im ks jana twardowskiego": 4,
+          "zespol szkol nr 7 szkola podstawowa nr 12 gimnazjum nr 8 gdynia": 2
+        },
+        "start_months": {
+          "12": 6,
+          "11": 7
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 13
+        },
+        "special_needs": {
+          "N": 13
+        },
+        "fewer_opportunities": {
+          "N": 13
+        },
+        "disadvantaged_background": {
+          "N": 13
+        }
+      },
+      "source": "IT - Italy",
+      "target": "PL - Poland"
+    },
+    {
+      "weight": 47,
+      "metadata": {
+        "sender_org": {
+          "istituto di istruzione superiore v.cuoco-g.manuppella": 1,
+          "iis albert einstein": 5,
+          "istituto d'istruzione secondaria superiore \"g. torno\"": 4,
+          "liceo attilio bertolucci": 5
+        },
+        "receiver_org": {
+          "aldegrever-gymnasium": 1,
+          "inda-gymnasium": 5,
+          "gymnasium raabeschule": 4,
+          "johann philipp reis schule": 5
+        },
+        "start_months": {
+          "12": 10,
+          "9": 5
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 15
+        },
+        "special_needs": {
+          "N": 15
+        },
+        "fewer_opportunities": {
+          "N": 15
+        },
+        "disadvantaged_background": {
+          "N": 15
+        }
+      },
+      "source": "IT - Italy",
+      "target": "DE - Germany"
+    },
+    {
+      "weight": 3,
+      "metadata": {
+        "sender_org": {
+          "i.i.s. bodoni-paravia": 3
+        },
+        "receiver_org": {
+          "sabro-korsvejskolen": 3
+        },
+        "start_months": {
+          "11": 3
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 3
+        },
+        "special_needs": {
+          "N": 3
+        },
+        "fewer_opportunities": {
+          "N": 3
+        },
+        "disadvantaged_background": {
+          "N": 3
+        }
+      },
+      "source": "IT - Italy",
+      "target": "DK - Denmark"
+    },
+    {
+      "weight": 2,
+      "metadata": {
+        "sender_org": {
+          "istituto comprensivo marco ulpio traiano": 2
+        },
+        "receiver_org": {
+          "\"peyo yavorov\"": 2
+        },
+        "start_months": {
+          "12": 2
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 2
+        },
+        "special_needs": {
+          "N": 2
+        },
+        "fewer_opportunities": {
+          "N": 2
+        },
+        "disadvantaged_background": {
+          "N": 2
+        }
+      },
+      "source": "IT - Italy",
+      "target": "BG - Bulgaria"
+    },
+    {
+      "weight": 2,
+      "metadata": {
+        "sender_org": {
+          "istituto di istruzione superiore p.levi": 2
+        },
+        "receiver_org": {
+          "stichting regionale scholengemeenschap (rsg)": 2
+        },
+        "start_months": {
+          "10": 2
+        },
+        "activity": {
+          "Long-term study mobility of pupils": 2
+        },
+        "special_needs": {
+          "N": 2
+        },
+        "fewer_opportunities": {
+          "N": 2
+        },
+        "disadvantaged_background": {
+          "N": 2
+        }
+      },
+      "source": "IT - Italy",
+      "target": "NL - Netherlands"
+    },
+    {
+      "weight": 3,
+      "metadata": {
+        "sender_org": {
+          "istituto di istruzione superiore \"enrico fermi\"": 3
+        },
+        "receiver_org": {
+          "agrupamento de escolas do barreiro": 3
+        },
+        "start_months": {
+          "12": 3
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 3
+        },
+        "special_needs": {
+          "N": 3
+        },
+        "fewer_opportunities": {
+          "N": 3
+        },
+        "disadvantaged_background": {
+          "N": 3
+        }
+      },
+      "source": "IT - Italy",
+      "target": "PT - Portugal"
+    },
+    {
+      "weight": 6,
+      "metadata": {
+        "sender_org": {
+          "istituto comprensivo di porto viro": 4
+        },
+        "receiver_org": {
+          "7th high school of corfu": 4
+        },
+        "start_months": {
+          "12": 4
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 4
+        },
+        "special_needs": {
+          "N": 4
+        },
+        "fewer_opportunities": {
+          "N": 4
+        },
+        "disadvantaged_background": {
+          "N": 4
+        }
+      },
+      "source": "IT - Italy",
+      "target": "EL - Greece"
+    },
+    {
+      "weight": 4,
+      "metadata": {
+        "sender_org": {
+          "istituto istruzione superiore castelnovo ne monti": 1
+        },
+        "receiver_org": {
+          "zakladni skola ostrava, nadrazni 117, p.o.": 1
+        },
+        "start_months": {
+          "12": 1
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 1
+        },
+        "special_needs": {
+          "N": 1
+        },
+        "fewer_opportunities": {
+          "N": 1
+        },
+        "disadvantaged_background": {
+          "N": 1
+        }
+      },
+      "source": "IT - Italy",
+      "target": "CZ - Czechia"
+    },
+    {
+      "weight": 2,
+      "metadata": {
+        "sender_org": {
+          "istituto di istruzione superiore 'a. orsini - o. licini'": 2
+        },
+        "receiver_org": {
+          "fria l\u00e4roverken i karlstad": 2
+        },
+        "start_months": {
+          "11": 2
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 2
+        },
+        "special_needs": {
+          "N": 2
+        },
+        "fewer_opportunities": {
+          "N": 2
+        },
+        "disadvantaged_background": {
+          "N": 2
+        }
+      },
+      "source": "IT - Italy",
+      "target": "SE - Sweden"
+    },
+    {
+      "weight": 4,
+      "metadata": {
+        "sender_org": {
+          "liceo statale erasmo da rotterdam": 3
+        },
+        "receiver_org": {
+          "ny\u00edregyh\u00e1zi szc sz\u00e9chenyi istv\u00e1n k\u00f6zgazdas\u00e1gi, informatikai szakk\u00f6z\u00e9piskol\u00e1ja \u00e9s koll\u00e9giuma": 3
+        },
+        "start_months": {
+          "11": 3
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 3
+        },
+        "special_needs": {
+          "N": 3
+        },
+        "fewer_opportunities": {
+          "N": 3
+        },
+        "disadvantaged_background": {
+          "N": 3
+        }
+      },
+      "source": "IT - Italy",
+      "target": "HU - Hungary"
+    },
+    {
+      "weight": 6,
+      "metadata": {
+        "sender_org": {
+          "iiss charles darwin": 3,
+          "istituto comprensivo castel frentano": 2
+        },
+        "receiver_org": {
+          "bayrampasa tuna mesleki ve teknik anadolu lisesi": 3,
+          "k\u00fc\u00e7\u00fck\u00e7ekmece imkb yavuz sultan selim secondary school": 2
+        },
+        "start_months": {
+          "11": 3,
+          "12": 2
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 5
+        },
+        "special_needs": {
+          "N": 5
+        },
+        "fewer_opportunities": {
+          "N": 5
+        },
+        "disadvantaged_background": {
+          "N": 5
+        }
+      },
+      "source": "IT - Italy",
+      "target": "TR - Turkey"
+    },
+    {
+      "weight": 3,
+      "metadata": {
+        "sender_org": {
+          "iiss charles darwin": 3
+        },
+        "receiver_org": {
+          "kogeka 8": 3
+        },
+        "start_months": {
+          "12": 3
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 3
+        },
+        "special_needs": {
+          "N": 3
+        },
+        "fewer_opportunities": {
+          "N": 3
+        },
+        "disadvantaged_background": {
+          "N": 3
+        }
+      },
+      "source": "IT - Italy",
+      "target": "BE - Belgium"
+    },
+    {
+      "weight": 4,
+      "metadata": {
+        "sender_org": {
+          "istituto comprensivo terme vigliatore": 2
+        },
+        "receiver_org": {
+          "st vincent's catholic primary school": 2
+        },
+        "start_months": {
+          "11": 2
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 2
+        },
+        "special_needs": {
+          "N": 2
+        },
+        "fewer_opportunities": {
+          "N": 2
+        },
+        "disadvantaged_background": {
+          "N": 2
+        }
+      },
+      "source": "IT - Italy",
+      "target": "UK - United Kingdom"
+    },
+    {
+      "weight": 26,
+      "metadata": {
+        "sender_org": {
+          "sekundarschule friedrich ludwig jahn freyburg": 3,
+          "heinrich heine-europaschule": 3,
+          "schule an der haveld\u00fcne": 3,
+          "gymnasium lilienthal": 1
+        },
+        "receiver_org": {
+          "colegio san pelayo": 3,
+          "ies santa catalina de alejandria": 3,
+          "ceip isaac alb\u00e9niz": 3,
+          "ies albarregas": 1
+        },
+        "start_months": {
+          "9": 3,
+          "11": 3,
+          "12": 3,
+          "10": 1
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 10
+        },
+        "special_needs": {
+          "N": 10
+        },
+        "fewer_opportunities": {
+          "N": 10
+        },
+        "disadvantaged_background": {
+          "N": 10
+        }
+      },
+      "source": "DE - Germany",
+      "target": "ES - Spain"
+    },
+    {
+      "weight": 13,
+      "metadata": {
+        "sender_org": {
+          "egbert-gymnasium muensterschwarzach": 6
+        },
+        "receiver_org": {
+          "coll\u00e8ge du servois": 6
+        },
+        "start_months": {
+          "11": 6
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 6
+        },
+        "special_needs": {
+          "N": 6
+        },
+        "fewer_opportunities": {
+          "N": 6
+        },
+        "disadvantaged_background": {
+          "N": 6
+        }
+      },
+      "source": "DE - Germany",
+      "target": "FR - France"
+    },
+    {
+      "weight": 6,
+      "metadata": {
+        "sender_org": {
+          "gymnasium carolinum": 2
+        },
+        "receiver_org": {
+          "i liceum ogolnoksztalcace im. marii sklodowskiej - curie w szczecinie": 2
+        },
+        "start_months": {
+          "12": 2
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 2
+        },
+        "special_needs": {
+          "N": 2
+        },
+        "fewer_opportunities": {
+          "N": 2
+        },
+        "disadvantaged_background": {
+          "N": 2
+        }
+      },
+      "source": "DE - Germany",
+      "target": "PL - Poland"
+    },
+    {
+      "weight": 25,
+      "metadata": {
+        "sender_org": {
+          "hans-boeckler-berufskolleg": 1,
+          "berufliche schulen landsberg am lech": 4
+        },
+        "receiver_org": {
+          "obchodna akademia, jesenskeho 259/6, povazska bystrica": 1,
+          "gymnazium konstantinova 2": 4
+        },
+        "start_months": {
+          "12": 1,
+          "10": 4
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 5
+        },
+        "special_needs": {
+          "N": 5
+        },
+        "fewer_opportunities": {
+          "N": 5
+        },
+        "disadvantaged_background": {
+          "N": 5
+        }
+      },
+      "source": "DE - Germany",
+      "target": "SK - Slovakia"
+    },
+    {
+      "weight": 7,
+      "metadata": {
+        "sender_org": {
+          "staatliche berufsoberschule scheyern": 3
+        },
+        "receiver_org": {
+          "teknisk erhvervsskole center": 3
+        },
+        "start_months": {
+          "9": 3
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 3
+        },
+        "special_needs": {
+          "N": 3
+        },
+        "fewer_opportunities": {
+          "N": 3
+        },
+        "disadvantaged_background": {
+          "N": 3
+        }
+      },
+      "source": "DE - Germany",
+      "target": "DK - Denmark"
+    },
+    {
+      "weight": 16,
+      "metadata": {
+        "sender_org": {
+          "k\u00f6nigin-katharina-stift": 1,
+          "k\u00f6nig-heinrich-schule fritzlar": 1
+        },
+        "receiver_org": {
+          "liceo scientifico leonardo da vinci": 1,
+          "istituto di istruzione superiore pietro scalcerle": 1
+        },
+        "start_months": {
+          "10": 1,
+          "9": 1
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 1,
+          "Long-term study mobility of pupils": 1
+        },
+        "special_needs": {
+          "N": 2
+        },
+        "fewer_opportunities": {
+          "N": 2
+        },
+        "disadvantaged_background": {
+          "N": 2
+        }
+      },
+      "source": "DE - Germany",
+      "target": "IT - Italy"
+    },
+    {
+      "weight": 2,
+      "metadata": {
+        "sender_org": {
+          "realschule plus bad ems nassau": 1
+        },
+        "receiver_org": {
+          "\"peyo yavorov\"": 1
+        },
+        "start_months": {
+          "12": 1
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 1
+        },
+        "special_needs": {
+          "N": 1
+        },
+        "fewer_opportunities": {
+          "N": 1
+        },
+        "disadvantaged_background": {
+          "N": 1
+        }
+      },
+      "source": "DE - Germany",
+      "target": "BG - Bulgaria"
+    },
+    {
+      "weight": 1,
+      "metadata": {
+        "sender_org": {
+          "john f. kennedy schule": 1
+        },
+        "receiver_org": {
+          "john f. kennedy schule": 1
+        },
+        "start_months": {
+          "9": 1
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 1
+        },
+        "special_needs": {
+          "N": 1
+        },
+        "fewer_opportunities": {
+          "N": 1
+        },
+        "disadvantaged_background": {
+          "N": 1
+        }
+      },
+      "source": "DE - Germany",
+      "target": "DE - Germany"
+    },
+    {
+      "weight": 3,
+      "metadata": {
+        "sender_org": {
+          "stadtteilschule poppenb\u00fcttel": 3
+        },
+        "receiver_org": {
+          "bayrampasa tuna mesleki ve teknik anadolu lisesi": 3
+        },
+        "start_months": {
+          "11": 3
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 3
+        },
+        "special_needs": {
+          "N": 3
+        },
+        "fewer_opportunities": {
+          "N": 3
+        },
+        "disadvantaged_background": {
+          "N": 3
+        }
+      },
+      "source": "DE - Germany",
+      "target": "TR - Turkey"
+    },
+    {
+      "weight": 3,
+      "metadata": {
+        "sender_org": {
+          "stadtteilschule poppenb\u00fcttel": 1
+        },
+        "receiver_org": {
+          "kogeka 8": 1
+        },
+        "start_months": {
+          "12": 1
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 1
+        },
+        "special_needs": {
+          "N": 1
+        },
+        "fewer_opportunities": {
+          "N": 1
+        },
+        "disadvantaged_background": {
+          "N": 1
+        }
+      },
+      "source": "DE - Germany",
+      "target": "BE - Belgium"
+    },
+    {
+      "weight": 1,
+      "metadata": {
+        "sender_org": {
+          "freie waldorfschule saar-hunsr\u00fcck": 1
+        },
+        "receiver_org": {
+          "ringwood waldorf school": 1
+        },
+        "start_months": {
+          "11": 1
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 1
+        },
+        "special_needs": {
+          "N": 1
+        },
+        "fewer_opportunities": {
+          "N": 1
+        },
+        "disadvantaged_background": {
+          "N": 1
+        }
+      },
+      "source": "DE - Germany",
+      "target": "UK - United Kingdom"
+    },
+    {
+      "weight": 4,
+      "metadata": {
+        "sender_org": {
+          "menntask\u00f3linn \u00ed reykjav\u00edk": 2
+        },
+        "receiver_org": {
+          "inda-gymnasium": 2
+        },
+        "start_months": {
+          "11": 2
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 2
+        },
+        "special_needs": {
+          "N": 2
+        },
+        "fewer_opportunities": {
+          "N": 2
+        },
+        "disadvantaged_background": {
+          "N": 2
+        }
+      },
+      "source": "IS - Iceland",
+      "target": "DE - Germany"
+    },
+    {
+      "weight": 20,
+      "metadata": {
+        "sender_org": {
+          "gy\u00f6ri szolgaltat\u00e1si szc baross g\u00e1bor ket tanitasi nyelvu k\u00f6zgazdasagi \u00e9s \u00fcgyviteli szakgimnaziuma": 2,
+          "egri p\u00e1sztorv\u00f6lgyi \u00e1ltal\u00e1nos iskola \u00e9s gimn\u00e1zium": 5
+        },
+        "receiver_org": {
+          "obchodna akademia, jesenskeho 259/6, povazska bystrica": 2,
+          "cirkevna spojena skola, okruzna 2062/25, dolny kubin": 5
+        },
+        "start_months": {
+          "12": 2,
+          "11": 5
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 7
+        },
+        "special_needs": {
+          "N": 7
+        },
+        "fewer_opportunities": {
+          "N": 4,
+          "Y": 3
+        },
+        "disadvantaged_background": {
+          "N": 7
+        }
+      },
+      "source": "HU - Hungary",
+      "target": "SK - Slovakia"
+    },
+    {
+      "weight": 4,
+      "metadata": {
+        "sender_org": {
+          "vay \u00e1d\u00e1m gimn\u00e1zium, mez\u00f6gazdas\u00e1gi szakk\u00e9pz\u00f6 iskola \u00e9s koll\u00e9gium": 3
+        },
+        "receiver_org": {
+          "aldegrever-gymnasium": 3
+        },
+        "start_months": {
+          "12": 3
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 3
+        },
+        "special_needs": {
+          "N": 3
+        },
+        "fewer_opportunities": {
+          "N": 2,
+          "Y": 1
+        },
+        "disadvantaged_background": {
+          "N": 3
+        }
+      },
+      "source": "HU - Hungary",
+      "target": "DE - Germany"
+    },
+    {
+      "weight": 3,
+      "metadata": {
+        "sender_org": {
+          "p\u00e9csi kod\u00e1ly zolt\u00e1n gimn\u00e1zium": 2
+        },
+        "receiver_org": {
+          "colegiul national \"iosif vulcan\"": 2
+        },
+        "start_months": {
+          "11": 2
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 2
+        },
+        "special_needs": {
+          "N": 2
+        },
+        "fewer_opportunities": {
+          "N": 2
+        },
+        "disadvantaged_background": {
+          "N": 2
+        }
+      },
+      "source": "HU - Hungary",
+      "target": "RO - Romania"
+    },
+    {
+      "weight": 6,
+      "metadata": {
+        "sender_org": {
+          "patrona hungariae ovoda, altalanos iskola gimnazium, kollegium es alapfoku muveszeti iskola": 3
+        },
+        "receiver_org": {
+          "katolicka szkola podstawowa im ks jana twardowskiego": 3
+        },
+        "start_months": {
+          "12": 3
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 3
+        },
+        "special_needs": {
+          "N": 3
+        },
+        "fewer_opportunities": {
+          "N": 3
+        },
+        "disadvantaged_background": {
+          "N": 3
+        }
+      },
+      "source": "HU - Hungary",
+      "target": "PL - Poland"
+    },
+    {
+      "weight": 4,
+      "metadata": {
+        "sender_org": {
+          "budai k\u00f6z\u00e9piskola": 4
+        },
+        "receiver_org": {
+          "budapest ix. ker\u00fcleti szent- gy\u00f6rgyi albert \u00e1ltal\u00e1nos iskola \u00e9s gimn\u00e1zium": 4
+        },
+        "start_months": {
+          "11": 4
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 4
+        },
+        "special_needs": {
+          "N": 4
+        },
+        "fewer_opportunities": {
+          "N": 4
+        },
+        "disadvantaged_background": {
+          "N": 4
+        }
+      },
+      "source": "HU - Hungary",
+      "target": "HU - Hungary"
+    },
+    {
+      "weight": 6,
+      "metadata": {
+        "sender_org": {
+          "strabrecht college": 4
+        },
+        "receiver_org": {
+          "ramsgrange community school": 4
+        },
+        "start_months": {
+          "11": 4
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 4
+        },
+        "special_needs": {
+          "N": 4
+        },
+        "fewer_opportunities": {
+          "N": 4
+        },
+        "disadvantaged_background": {
+          "N": 4
+        }
+      },
+      "source": "NL - Netherlands",
+      "target": "IE - Ireland"
+    },
+    {
+      "weight": 8,
+      "metadata": {
+        "sender_org": {
+          "stichting regionale scholengemeenschap (rsg)": 1,
+          "de vereniging ons middelbaar onderwijs": 2
+        },
+        "receiver_org": {
+          "ieso quercus": 1,
+          "ies santa catalina de alejandria": 2
+        },
+        "start_months": {
+          "10": 1,
+          "11": 2
+        },
+        "activity": {
+          "Long-term study mobility of pupils": 1,
+          "Short-term exchanges of groups of pupils": 2
+        },
+        "special_needs": {
+          "N": 3
+        },
+        "fewer_opportunities": {
+          "N": 3
+        },
+        "disadvantaged_background": {
+          "N": 3
+        }
+      },
+      "source": "NL - Netherlands",
+      "target": "ES - Spain"
+    },
+    {
+      "weight": 4,
+      "metadata": {
+        "sender_org": {
+          "kauno saules gimnazija": 3
+        },
+        "receiver_org": {
+          "ies san mateo": 3
+        },
+        "start_months": {
+          "12": 3
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 3
+        },
+        "special_needs": {
+          "N": 3
+        },
+        "fewer_opportunities": {
+          "N": 3
+        },
+        "disadvantaged_background": {
+          "N": 3
+        }
+      },
+      "source": "LT - Lithuania",
+      "target": "ES - Spain"
+    },
+    {
+      "weight": 3,
+      "metadata": {
+        "sender_org": {
+          "vsi klaipedos licejus": 2
+        },
+        "receiver_org": {
+          "agrupamento de escolas do barreiro": 2
+        },
+        "start_months": {
+          "12": 2
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 2
+        },
+        "special_needs": {
+          "N": 2
+        },
+        "fewer_opportunities": {
+          "N": 2
+        },
+        "disadvantaged_background": {
+          "N": 2
+        }
+      },
+      "source": "LT - Lithuania",
+      "target": "PT - Portugal"
+    },
+    {
+      "weight": 10,
+      "metadata": {
+        "sender_org": {
+          "gymnazium, obchodni akademie a jazykova skola s pravem statni jazykove zkousky hodonin": 1
+        },
+        "receiver_org": {
+          "bhak/bhas g\u00e4nserndorf": 1
+        },
+        "start_months": {
+          "12": 1
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 1
+        },
+        "special_needs": {
+          "N": 1
+        },
+        "fewer_opportunities": {
+          "N": 1
+        },
+        "disadvantaged_background": {
+          "N": 1
+        }
+      },
+      "source": "CZ - Czechia",
+      "target": "AT - Austria"
+    },
+    {
+      "weight": 13,
+      "metadata": {
+        "sender_org": {
+          "gymnazium jihlava": 2,
+          "zakladni skola, praha 13, mladi 135": 5,
+          "zakladni skola t. g. masaryka mnichovice okres praha-vychod, prispevkova organizace": 3
+        },
+        "receiver_org": {
+          "ies valle del arlanza": 2,
+          "ies santa catalina de alejandria": 5,
+          "ceip isaac alb\u00e9niz": 3
+        },
+        "start_months": {
+          "12": 5,
+          "11": 5
+        },
+        "activity": {
+          "Long-term study mobility of pupils": 2,
+          "Short-term exchanges of groups of pupils": 8
+        },
+        "special_needs": {
+          "N": 10
+        },
+        "fewer_opportunities": {
+          "N": 10
+        },
+        "disadvantaged_background": {
+          "N": 10
+        }
+      },
+      "source": "CZ - Czechia",
+      "target": "ES - Spain"
+    },
+    {
+      "weight": 6,
+      "metadata": {
+        "sender_org": {
+          "gymnazium karla capka, dobris, skolni 1530": 4
+        },
+        "receiver_org": {
+          "ramsgrange community school": 4
+        },
+        "start_months": {
+          "11": 4
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 4
+        },
+        "special_needs": {
+          "N": 4
+        },
+        "fewer_opportunities": {
+          "N": 4
+        },
+        "disadvantaged_background": {
+          "N": 4
+        }
+      },
+      "source": "CZ - Czechia",
+      "target": "IE - Ireland"
+    },
+    {
+      "weight": 6,
+      "metadata": {
+        "sender_org": {
+          "sos a sou kladno": 2
+        },
+        "receiver_org": {
+          "obchodna akademia, jesenskeho 259/6, povazska bystrica": 2
+        },
+        "start_months": {
+          "12": 2
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 2
+        },
+        "special_needs": {
+          "N": 2
+        },
+        "fewer_opportunities": {
+          "N": 2
+        },
+        "disadvantaged_background": {
+          "N": 2
+        }
+      },
+      "source": "CZ - Czechia",
+      "target": "SK - Slovakia"
+    },
+    {
+      "weight": 10,
+      "metadata": {
+        "sender_org": {
+          "zakladni skola, brno, hercikova 19, prispevkova organizace": 2,
+          "zakladni skola a materska skola hranice, struhlovsko, prispevkova organizace": 1
+        },
+        "receiver_org": {
+          "katolicka szkola podstawowa im ks jana twardowskiego": 2,
+          "szkola podstawowa nr 112 z oddzialami integracyjnymi im. marii kownackiej": 1
+        },
+        "start_months": {
+          "12": 2,
+          "11": 1
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 3
+        },
+        "special_needs": {
+          "N": 3
+        },
+        "fewer_opportunities": {
+          "N": 3
+        },
+        "disadvantaged_background": {
+          "N": 3
+        }
+      },
+      "source": "CZ - Czechia",
+      "target": "PL - Poland"
+    },
+    {
+      "weight": 5,
+      "metadata": {
+        "sender_org": {
+          "zakladni skola a materska skola breclav, kupkova 1": 2
+        },
+        "receiver_org": {
+          "henfling-gymnasium": 2
+        },
+        "start_months": {
+          "11": 2
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 2
+        },
+        "special_needs": {
+          "N": 2
+        },
+        "fewer_opportunities": {
+          "N": 2
+        },
+        "disadvantaged_background": {
+          "N": 2
+        }
+      },
+      "source": "CZ - Czechia",
+      "target": "DE - Germany"
+    },
+    {
+      "weight": 6,
+      "metadata": {
+        "sender_org": {
+          "zakladni skola a materska skola t.g.masaryka drasov, okres brno-venkov": 2
+        },
+        "receiver_org": {
+          "7th high school of corfu": 2
+        },
+        "start_months": {
+          "12": 2
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 2
+        },
+        "special_needs": {
+          "N": 2
+        },
+        "fewer_opportunities": {
+          "N": 2
+        },
+        "disadvantaged_background": {
+          "N": 2
+        }
+      },
+      "source": "CZ - Czechia",
+      "target": "EL - Greece"
+    },
+    {
+      "weight": 4,
+      "metadata": {
+        "sender_org": {
+          "zakladni skola a materska skola brno, kridlovicka 30b": 2
+        },
+        "receiver_org": {
+          "119 secondary school \"academician mihail arnaudov\"": 2
+        },
+        "start_months": {
+          "12": 2
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 2
+        },
+        "special_needs": {
+          "N": 2
+        },
+        "fewer_opportunities": {
+          "N": 2
+        },
+        "disadvantaged_background": {
+          "N": 2
+        }
+      },
+      "source": "CZ - Czechia",
+      "target": "BG - Bulgaria"
+    },
+    {
+      "weight": 2,
+      "metadata": {
+        "sender_org": {
+          "michael - stredni skola a vyssi odborna skola reklamni a umelecke tvorby, s.r.o.": 2
+        },
+        "receiver_org": {
+          "fria l\u00e4roverken i karlstad": 2
+        },
+        "start_months": {
+          "11": 2
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 2
+        },
+        "special_needs": {
+          "N": 2
+        },
+        "fewer_opportunities": {
+          "N": 2
+        },
+        "disadvantaged_background": {
+          "N": 2
+        }
+      },
+      "source": "CZ - Czechia",
+      "target": "SE - Sweden"
+    },
+    {
+      "weight": 2,
+      "metadata": {
+        "sender_org": {
+          "ies ramon y cajal": 2
+        },
+        "receiver_org": {
+          "institut notre-dame de thuin": 2
+        },
+        "start_months": {
+          "11": 2
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 2
+        },
+        "special_needs": {
+          "N": 2
+        },
+        "fewer_opportunities": {
+          "N": 2
+        },
+        "disadvantaged_background": {
+          "N": 2
+        }
+      },
+      "source": "ES - Spain",
+      "target": "BE - Belgium"
+    },
+    {
+      "weight": 31,
+      "metadata": {
+        "sender_org": {
+          "ies binissalem": 4,
+          "ies torrellano": 3,
+          "instituto de educaci\u00f3n secundaria los montecillos": 2
+        },
+        "receiver_org": {
+          "gesamtschule der stadt br\u00fchl": 4,
+          "inda-gymnasium": 3,
+          "henfling-gymnasium": 2
+        },
+        "start_months": {
+          "11": 6,
+          "12": 3
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 9
+        },
+        "special_needs": {
+          "N": 9
+        },
+        "fewer_opportunities": {
+          "N": 9
+        },
+        "disadvantaged_background": {
+          "N": 9
+        }
+      },
+      "source": "ES - Spain",
+      "target": "DE - Germany"
+    },
+    {
+      "weight": 5,
+      "metadata": {
+        "sender_org": {
+          "instituto de ense\u00f1anza secundaria santo domingo": 2,
+          "i.e.s. jos\u00e9 saramago": 3
+        },
+        "receiver_org": {
+          "istituto d'istruzione superiore": 2,
+          "istituto di istruzione superiore pietro scalcerle": 3
+        },
+        "start_months": {
+          "10": 2,
+          "9": 3
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 2,
+          "Long-term study mobility of pupils": 3
+        },
+        "special_needs": {
+          "N": 5
+        },
+        "fewer_opportunities": {
+          "N": 5
+        },
+        "disadvantaged_background": {
+          "N": 5
+        }
+      },
+      "source": "ES - Spain",
+      "target": "IT - Italy"
+    },
+    {
+      "weight": 4,
+      "metadata": {
+        "sender_org": {
+          "jesuites bellvitge centro de estudios joan xxiii": 2
+        },
+        "receiver_org": {
+          "sabro-korsvejskolen": 2
+        },
+        "start_months": {
+          "11": 2
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 2
+        },
+        "special_needs": {
+          "N": 2
+        },
+        "fewer_opportunities": {
+          "N": 2
+        },
+        "disadvantaged_background": {
+          "N": 2
+        }
+      },
+      "source": "ES - Spain",
+      "target": "DK - Denmark"
+    },
+    {
+      "weight": 6,
+      "metadata": {
+        "sender_org": {
+          "ies miguel de unamuno bhi": 1,
+          "instituto de educacion secundaria la azucarera": 1
+        },
+        "receiver_org": {
+          "\"peyo yavorov\"": 1,
+          "119 secondary school \"academician mihail arnaudov\"": 1
+        },
+        "start_months": {
+          "12": 2
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 2
+        },
+        "special_needs": {
+          "N": 2
+        },
+        "fewer_opportunities": {
+          "N": 2
+        },
+        "disadvantaged_background": {
+          "N": 2
+        }
+      },
+      "source": "ES - Spain",
+      "target": "BG - Bulgaria"
+    },
+    {
+      "weight": 15,
+      "metadata": {
+        "sender_org": {
+          "ceip ruperto chap\u00ed": 5,
+          "ies zaidin-vergeles": 1
+        },
+        "receiver_org": {
+          "zespol szkol w kamieniu": 5,
+          "katolicka szkola podstawowa im ks jana twardowskiego": 1
+        },
+        "start_months": {
+          "11": 5,
+          "12": 1
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 6
+        },
+        "special_needs": {
+          "N": 6
+        },
+        "fewer_opportunities": {
+          "N": 6
+        },
+        "disadvantaged_background": {
+          "N": 6
+        }
+      },
+      "source": "ES - Spain",
+      "target": "PL - Poland"
+    },
+    {
+      "weight": 10,
+      "metadata": {
+        "sender_org": {
+          "fundaci\u00f3n educativa francisco coll-sagrado coraz\u00f3n-": 6
+        },
+        "receiver_org": {
+          "porta mosana college": 6
+        },
+        "start_months": {
+          "12": 6
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 6
+        },
+        "special_needs": {
+          "N": 6
+        },
+        "fewer_opportunities": {
+          "N": 5,
+          "Y": 1
+        },
+        "disadvantaged_background": {
+          "N": 6
+        }
+      },
+      "source": "ES - Spain",
+      "target": "NL - Netherlands"
+    },
+    {
+      "weight": 3,
+      "metadata": {
+        "sender_org": {
+          "ies s\u00e1cilis": 3
+        },
+        "receiver_org": {
+          "colegiul national \"iosif vulcan\"": 3
+        },
+        "start_months": {
+          "11": 3
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 3
+        },
+        "special_needs": {
+          "N": 3
+        },
+        "fewer_opportunities": {
+          "N": 3
+        },
+        "disadvantaged_background": {
+          "N": 3
+        }
+      },
+      "source": "ES - Spain",
+      "target": "RO - Romania"
+    },
+    {
+      "weight": 7,
+      "metadata": {
+        "sender_org": {
+          "secondary high school la s\u00e9nia": 1
+        },
+        "receiver_org": {
+          "lyc\u00e9e g\u00e9n\u00e9ral et techno saint-exup\u00e9ry": 1
+        },
+        "start_months": {
+          "11": 1
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 1
+        },
+        "special_needs": {
+          "N": 1
+        },
+        "fewer_opportunities": {
+          "N": 1
+        },
+        "disadvantaged_background": {
+          "N": 1
+        }
+      },
+      "source": "ES - Spain",
+      "target": "FR - France"
+    },
+    {
+      "weight": 7,
+      "metadata": {
+        "sender_org": {
+          "ies santa engracia": 2,
+          "ies melchor de macanaz": 4
+        },
+        "receiver_org": {
+          "budapest ix. ker\u00fcleti szent- gy\u00f6rgyi albert \u00e1ltal\u00e1nos iskola \u00e9s gimn\u00e1zium": 2,
+          "ny\u00edregyh\u00e1zi szc sz\u00e9chenyi istv\u00e1n k\u00f6zgazdas\u00e1gi, informatikai szakgimn\u00e1ziuma \u00e9s koll\u00e9giuma": 4
+        },
+        "start_months": {
+          "11": 6
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 6
+        },
+        "special_needs": {
+          "N": 6
+        },
+        "fewer_opportunities": {
+          "N": 6
+        },
+        "disadvantaged_background": {
+          "N": 6
+        }
+      },
+      "source": "ES - Spain",
+      "target": "HU - Hungary"
+    },
+    {
+      "weight": 3,
+      "metadata": {
+        "sender_org": {
+          "institut vilatzara": 1
+        },
+        "receiver_org": {
+          "agrupamento de escolas do barreiro": 1
+        },
+        "start_months": {
+          "12": 1
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 1
+        },
+        "special_needs": {
+          "N": 1
+        },
+        "fewer_opportunities": {
+          "N": 1
+        },
+        "disadvantaged_background": {
+          "N": 1
+        }
+      },
+      "source": "ES - Spain",
+      "target": "PT - Portugal"
+    },
+    {
+      "weight": 3,
+      "metadata": {
+        "sender_org": {
+          "ies radio exterior": 1
+        },
+        "receiver_org": {
+          "bayrampasa tuna mesleki ve teknik anadolu lisesi": 1
+        },
+        "start_months": {
+          "11": 1
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 1
+        },
+        "special_needs": {
+          "N": 1
+        },
+        "fewer_opportunities": {
+          "N": 1
+        },
+        "disadvantaged_background": {
+          "N": 1
+        }
+      },
+      "source": "ES - Spain",
+      "target": "TR - Turkey"
+    },
+    {
+      "weight": 14,
+      "metadata": {
+        "sender_org": {
+          "colegio santa mar\u00eda la real": 3
+        },
+        "receiver_org": {
+          "saint mary of the angels catholic primary school": 3
+        },
+        "start_months": {
+          "10": 3
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 3
+        },
+        "special_needs": {
+          "N": 3
+        },
+        "fewer_opportunities": {
+          "N": 3
+        },
+        "disadvantaged_background": {
+          "N": 3
+        }
+      },
+      "source": "ES - Spain",
+      "target": "UK - United Kingdom"
+    },
+    {
+      "weight": 3,
+      "metadata": {
+        "sender_org": {
+          "iv liceum ogolnoksztalcace im.b.prusa": 2
+        },
+        "receiver_org": {
+          "institut notre-dame de thuin": 2
+        },
+        "start_months": {
+          "11": 2
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 2
+        },
+        "special_needs": {
+          "N": 2
+        },
+        "fewer_opportunities": {
+          "N": 2
+        },
+        "disadvantaged_background": {
+          "N": 2
+        }
+      },
+      "source": "PL - Poland",
+      "target": "BE - Belgium"
+    },
+    {
+      "weight": 27,
+      "metadata": {
+        "sender_org": {
+          "gimnazjum w spalonej": 3,
+          "szkola podstawowa nr 1 w barlinku": 2,
+          "zespol szkol licealnych i zawodowych im. wl. reymonta w pienieznie": 3
+        },
+        "receiver_org": {
+          "gesamtschule der stadt br\u00fchl": 3,
+          "grundschule im beerwinkel": 2,
+          "aldegrever-gymnasium": 2,
+          "zespol szkol licealnych i zawodowych im. wl. reymonta w pienieznie": 1
+        },
+        "start_months": {
+          "11": 3,
+          "12": 5
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 8
+        },
+        "special_needs": {
+          "N": 8
+        },
+        "fewer_opportunities": {
+          "N": 8
+        },
+        "disadvantaged_background": {
+          "N": 8
+        }
+      },
+      "source": "PL - Poland",
+      "target": "DE - Germany"
+    },
+    {
+      "weight": 4,
+      "metadata": {
+        "sender_org": {
+          "zespol szkol spolecznych splot": 2
+        },
+        "receiver_org": {
+          "sabro-korsvejskolen": 2
+        },
+        "start_months": {
+          "11": 2
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 2
+        },
+        "special_needs": {
+          "N": 2
+        },
+        "fewer_opportunities": {
+          "N": 2
+        },
+        "disadvantaged_background": {
+          "N": 2
+        }
+      },
+      "source": "PL - Poland",
+      "target": "DK - Denmark"
+    },
+    {
+      "weight": 4,
+      "metadata": {
+        "sender_org": {
+          "liceum ogolnoksztalcace im. piotra skargi": 2
+        },
+        "receiver_org": {
+          "hak ybbs": 2
+        },
+        "start_months": {
+          "12": 2
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 2
+        },
+        "special_needs": {
+          "N": 2
+        },
+        "fewer_opportunities": {
+          "N": 2
+        },
+        "disadvantaged_background": {
+          "N": 2
+        }
+      },
+      "source": "PL - Poland",
+      "target": "AT - Austria"
+    },
+    {
+      "weight": 2,
+      "metadata": {
+        "sender_org": {
+          "gimnazjum nr 16 im. fryderyka chopina w lublinie": 1
+        },
+        "receiver_org": {
+          "\"peyo yavorov\"": 1
+        },
+        "start_months": {
+          "12": 1
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 1
+        },
+        "special_needs": {
+          "N": 1
+        },
+        "fewer_opportunities": {
+          "N": 1
+        },
+        "disadvantaged_background": {
+          "N": 1
+        }
+      },
+      "source": "PL - Poland",
+      "target": "BG - Bulgaria"
+    },
+    {
+      "weight": 28,
+      "metadata": {
+        "sender_org": {
+          "ix liceum ogolnoksztalcace im. c. k. norwida w czestochowie": 2,
+          "gimnazjum nr 124 im. polskich noblist\u00f3w": 2,
+          "niepubliczna szkola podstawowa nr 81, fundacja \"rodzice dzieciom\"": 1,
+          "lxv liceum ogolnoksztalcace z oddzialami integracyjnymi im. gen. jozefa bema": 3
+        },
+        "receiver_org": {
+          "colegio diocesano san at\u00f3n": 2,
+          "ies francisco de orellana": 2,
+          "ceip isaac alb\u00e9niz": 1,
+          "ies isbilya": 3
+        },
+        "start_months": {
+          "12": 2,
+          "11": 6
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 8
+        },
+        "special_needs": {
+          "N": 8
+        },
+        "fewer_opportunities": {
+          "N": 8
+        },
+        "disadvantaged_background": {
+          "N": 8
+        }
+      },
+      "source": "PL - Poland",
+      "target": "ES - Spain"
+    },
+    {
+      "weight": 3,
+      "metadata": {
+        "sender_org": {
+          "iv liceum ogolnoksztalcace im. dra tytusa chalubinskiego w radomiu": 2
+        },
+        "receiver_org": {
+          "colegiul national \"iosif vulcan\"": 2
+        },
+        "start_months": {
+          "11": 2
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 2
+        },
+        "special_needs": {
+          "N": 2
+        },
+        "fewer_opportunities": {
+          "N": 2
+        },
+        "disadvantaged_background": {
+          "N": 2
+        }
+      },
+      "source": "PL - Poland",
+      "target": "RO - Romania"
+    },
+    {
+      "weight": 4,
+      "metadata": {
+        "sender_org": {
+          "publiczne gimnazjum w czarnej": 2
+        },
+        "receiver_org": {
+          "kauno versvu vidurine mokykla": 2
+        },
+        "start_months": {
+          "12": 2
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 2
+        },
+        "special_needs": {
+          "N": 2
+        },
+        "fewer_opportunities": {
+          "N": 2
+        },
+        "disadvantaged_background": {
+          "N": 2
+        }
+      },
+      "source": "PL - Poland",
+      "target": "LT - Lithuania"
+    },
+    {
+      "weight": 3,
+      "metadata": {
+        "sender_org": {
+          "gimnazjum im. wladyslawa kowala we wlodowicach": 2
+        },
+        "receiver_org": {
+          "budapest ix. ker\u00fcleti szent- gy\u00f6rgyi albert \u00e1ltal\u00e1nos iskola \u00e9s gimn\u00e1zium": 2
+        },
+        "start_months": {
+          "11": 2
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 2
+        },
+        "special_needs": {
+          "N": 2
+        },
+        "fewer_opportunities": {
+          "N": 2
+        },
+        "disadvantaged_background": {
+          "N": 2
+        }
+      },
+      "source": "PL - Poland",
+      "target": "HU - Hungary"
+    },
+    {
+      "weight": 3,
+      "metadata": {
+        "sender_org": {
+          "szkola podstawowa nr 23 im. marii dabrowskiej w elblagu": 1
+        },
+        "receiver_org": {
+          "ventspils 2,pamatskola": 1
+        },
+        "start_months": {
+          "11": 1
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 1
+        },
+        "special_needs": {
+          "N": 1
+        },
+        "fewer_opportunities": {
+          "N": 1
+        },
+        "disadvantaged_background": {
+          "N": 1
+        }
+      },
+      "source": "PL - Poland",
+      "target": "LV - Latvia"
+    },
+    {
+      "weight": 5,
+      "metadata": {
+        "sender_org": {
+          "liceum ogolnoksztalcace im. stefana zeromskiego": 3
+        },
+        "receiver_org": {
+          "agrupamento de escolas do barreiro": 3
+        },
+        "start_months": {
+          "12": 3
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 3
+        },
+        "special_needs": {
+          "N": 3
+        },
+        "fewer_opportunities": {
+          "N": 2,
+          "Y": 1
+        },
+        "disadvantaged_background": {
+          "N": 3
+        }
+      },
+      "source": "PL - Poland",
+      "target": "PT - Portugal"
+    },
+    {
+      "weight": 17,
+      "metadata": {
+        "sender_org": {
+          "chrzescijanskie gimnazjum im. krola dawida w poznaniu": 2,
+          "szkola podstawowa im. mikolaja kopernika w lazynie ii": 2
+        },
+        "receiver_org": {
+          "the king's school": 2,
+          "st vincent's catholic primary school": 2
+        },
+        "start_months": {
+          "10": 2,
+          "11": 2
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 4
+        },
+        "special_needs": {
+          "N": 4
+        },
+        "fewer_opportunities": {
+          "N": 4
+        },
+        "disadvantaged_background": {
+          "N": 4
+        }
+      },
+      "source": "PL - Poland",
+      "target": "UK - United Kingdom"
+    },
+    {
+      "weight": 14,
+      "metadata": {
+        "sender_org": {
+          "gimnazjum nr 5 w przemyslu": 7
+        },
+        "receiver_org": {
+          "cirkevna spojena skola, okruzna 2062/25, dolny kubin": 7
+        },
+        "start_months": {
+          "11": 7
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 7
+        },
+        "special_needs": {
+          "N": 7
+        },
+        "fewer_opportunities": {
+          "N": 3,
+          "Y": 4
+        },
+        "disadvantaged_background": {
+          "N": 7
+        }
+      },
+      "source": "PL - Poland",
+      "target": "SK - Slovakia"
+    },
+    {
+      "weight": 6,
+      "metadata": {
+        "sender_org": {
+          "gimnazjum nr 4 z oddzialami dwujezycznymi im. zygmunta wilkonskiego": 4
+        },
+        "receiver_org": {
+          "7th high school of corfu": 4
+        },
+        "start_months": {
+          "12": 4
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 4
+        },
+        "special_needs": {
+          "N": 4
+        },
+        "fewer_opportunities": {
+          "N": 3,
+          "Y": 1
+        },
+        "disadvantaged_background": {
+          "N": 4
+        }
+      },
+      "source": "PL - Poland",
+      "target": "EL - Greece"
+    },
+    {
+      "weight": 2,
+      "metadata": {
+        "sender_org": {
+          "szkola podstawowa nr 11 z oddzialami integracyjnymi im. kornela makuszynskiego": 1
+        },
+        "receiver_org": {
+          "k\u00fc\u00e7\u00fck\u00e7ekmece imkb yavuz sultan selim secondary school": 1
+        },
+        "start_months": {
+          "12": 1
+        },
+        "activity": {
+          "Short-term exchanges of groups of pupils": 1
+        },
+        "special_needs": {
+          "N": 1
+        },
+        "fewer_opportunities": {
+          "N": 1
+        },
+        "disadvantaged_background": {
+          "N": 1
+        }
+      },
+      "source": "PL - Poland",
+      "target": "TR - Turkey"
+    }
+  ]
+}

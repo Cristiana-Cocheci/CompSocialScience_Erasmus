@@ -1,0 +1,40 @@
+Country,Language_Family,Economic_Family,Geographical_Cultural_Region,lat,lon
+GE - Georgia,"14",Emerging_Market,Other,42.3154,43.3569
+LU - Luxembourg,"1,3,4",Advanced_Economy,West,49.8153,6.1296
+RO - Romania,"4",Emerging_Market,Central/East,45.9432,24.9668
+PT - Portugal,"4",Advanced_Economy,South,39.3999,-8.2245
+SE - Sweden,"1,2",Advanced_Economy,North,60.1282,18.6435
+NO - Norway,"1,2",Advanced_Economy,North,60.4720,8.4689
+UK - United Kingdom,"1,3",Advanced_Economy,West,55.3781,-3.4360
+AT - Austria,"1,3",Advanced_Economy,West,47.5162,14.5501
+CY - Cyprus,"9,15",Advanced_Economy,Other,35.1264,33.4299
+SI - Slovenia,"5,8",Advanced_Economy,Central/East,46.1512,14.9955
+FI - Finland,"12",Advanced_Economy,North,61.9241,25.7482
+BE - Belgium,"1,3,4",Advanced_Economy,West,50.5039,4.4699
+MT - Malta,"1,3,16",Advanced_Economy,South,35.9375,14.3754
+BA - Bosnia and Herzegovina,"5,8",Emerging_Market,Central/East,43.9159,17.6791
+BG - Bulgaria,"5,8",Emerging_Market,Central/East,42.7339,25.4858
+LV - Latvia,"10",Advanced_Economy,Central/East,56.8796,24.6032
+RS - Serbia,"5,8",Emerging_Market,Central/East,44.0165,21.0059
+SK - Slovakia,"5,6",Advanced_Economy,Central/East,48.6690,19.6990
+FR - France,"4",Advanced_Economy,West,46.2276,2.2137
+HR - Croatia,"5,8",Advanced_Economy,Central/East,45.1000,15.2000
+TR - Turkey,"15",Emerging_Market,Other,38.9637,35.2433
+EL - Greece,"9",Advanced_Economy,South,39.0742,21.8243
+MK - The Republic of North Macedonia,"5,8,11",Emerging_Market,Central/East,41.6086,21.7453
+ME - Montenegro,"5,8",Emerging_Market,Central/East,42.7087,19.3744
+IT - Italy,"4",Advanced_Economy,South,41.8719,12.5674
+DE - Germany,"1,3",Advanced_Economy,West,51.1657,10.4515
+IS - Iceland,"1,2",Advanced_Economy,North,64.9631,-19.0208
+HU - Hungary,"13",Emerging_Market,Central/East,47.1625,19.5033
+XK - Kosovo * UN resolution,"11",Developing_Economy,Central/East,42.6026,20.9030
+LY - Libya,"16",Developing_Economy,Other,26.3351,17.2283
+IE - Ireland,"1,3",Advanced_Economy,West,53.1424,-7.6921
+NL - Netherlands,"1,3",Advanced_Economy,West,52.1326,5.2913
+LT - Lithuania,"10",Advanced_Economy,Central/East,55.1694,23.8813
+EE - Estonia,"10,12",Advanced_Economy,Central/East,58.5953,25.0136
+CZ - Czechia,"5,6",Advanced_Economy,Central/East,49.8175,15.4730
+ES - Spain,"4",Advanced_Economy,South,40.4637,-3.7492
+DK - Denmark,"1,2",Advanced_Economy,North,56.2639,9.5018
+PL - Poland,"5,6",Emerging_Market,Central/East,51.9194,19.1451
+LI - Liechtenstein,"1,3",Advanced_Economy,West,47.1660,9.5554

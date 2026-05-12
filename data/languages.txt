@@ -1,0 +1,35 @@
+Germanic: [1]
+    North: [2]
+        Icelandic
+        Faroese
+        Norwegian
+        Swedish
+        Danish
+    West: [3]
+        Scots
+        English
+        Frisian
+        Dutch
+        German
+
+Romance: [4]
+    Spain, Portugal, Italy, France, Romania
+
+Slavic: [5]
+    West: [6]
+        Polish, Polabian, Czech, Knaanic, Slovak, Lower Sorbian, Upper Sorbian, Silesian and Kashubian.
+    East: [7]
+         Russian, Ukrainian, Belarusian, Ruthenian, and Rusyn
+    South: [8]
+        Slovene, Serbo-Croatian, Bulgarian, Macedonian, Bosnia, Monetnegro
+Greek [9]
+Baltic: [10]
+    Lithuania, LAtvia, Estonia
+
+Albanian[11]
+Finnish[12] + Estonia
+Hungarian[13]
+Armenian: [14]
+    Armenia, Azerbaijan, Georgia
+Turkish [15]
+Arab + Maltese [16]
