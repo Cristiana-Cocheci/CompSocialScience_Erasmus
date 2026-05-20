@@ -9,6 +9,7 @@
       "geographical_cultural_region": "Other",
       "lat": 42.3154,
       "lon": 43.3569,
+      "gdp_per_capita": 8.284,
       "id": "GE - Georgia"
     },
     {
@@ -17,6 +18,7 @@
       "geographical_cultural_region": "West",
       "lat": 49.8153,
       "lon": 6.1296,
+      "gdp_per_capita": 137.516,
       "id": "LU - Luxembourg"
     },
     {
@@ -25,6 +27,7 @@
       "geographical_cultural_region": "Central/East",
       "lat": 45.9432,
       "lon": 24.9668,
+      "gdp_per_capita": 20.072,
       "id": "RO - Romania"
     },
     {
@@ -33,6 +36,7 @@
       "geographical_cultural_region": "South",
       "lat": 39.3999,
       "lon": -8.2245,
+      "gdp_per_capita": 28.844,
       "id": "PT - Portugal"
     },
     {
@@ -41,6 +45,7 @@
       "geographical_cultural_region": "North",
       "lat": 60.1282,
       "lon": 18.6435,
+      "gdp_per_capita": 57.723,
       "id": "SE - Sweden"
     },
     {
@@ -49,6 +54,7 @@
       "geographical_cultural_region": "North",
       "lat": 60.472,
       "lon": 8.4689,
+      "gdp_per_capita": 86.81,
       "id": "NO - Norway"
     },
     {
@@ -57,6 +63,7 @@
       "geographical_cultural_region": "West",
       "lat": 55.3781,
       "lon": -3.436,
+      "gdp_per_capita": 52.637,
       "id": "UK - United Kingdom"
     },
     {
@@ -65,6 +72,7 @@
       "geographical_cultural_region": "West",
       "lat": 47.5162,
       "lon": 14.5501,
+      "gdp_per_capita": 56.833,
       "id": "AT - Austria"
     },
     {
@@ -73,6 +81,7 @@
       "geographical_cultural_region": "Other",
       "lat": 35.1264,
       "lon": 33.4299,
+      "gdp_per_capita": 38.654,
       "id": "CY - Cyprus"
     },
     {
@@ -81,6 +90,7 @@
       "geographical_cultural_region": "Central/East",
       "lat": 46.1512,
       "lon": 14.9955,
+      "gdp_per_capita": 34.089,
       "id": "SI - Slovenia"
     },
     {
@@ -89,6 +99,7 @@
       "geographical_cultural_region": "North",
       "lat": 61.9241,
       "lon": 25.7482,
+      "gdp_per_capita": 53.189,
       "id": "FI - Finland"
     },
     {
@@ -97,6 +108,7 @@
       "geographical_cultural_region": "West",
       "lat": 50.5039,
       "lon": 4.4699,
+      "gdp_per_capita": 55.723,
       "id": "BE - Belgium"
     },
     {
@@ -105,6 +117,7 @@
       "geographical_cultural_region": "South",
       "lat": 35.9375,
       "lon": 14.3754,
+      "gdp_per_capita": 42.347,
       "id": "MT - Malta"
     },
     {
@@ -113,6 +126,7 @@
       "geographical_cultural_region": "Central/East",
       "lat": 43.9159,
       "lon": 17.6791,
+      "gdp_per_capita": 8.957,
       "id": "BA - Bosnia and Herzegovina"
     },
     {
@@ -121,6 +135,7 @@
       "geographical_cultural_region": "Central/East",
       "lat": 42.7339,
       "lon": 25.4858,
+      "gdp_per_capita": 17.412,
       "id": "BG - Bulgaria"
     },
     {
@@ -129,6 +144,7 @@
       "geographical_cultural_region": "Central/East",
       "lat": 56.8796,
       "lon": 24.6032,
+      "gdp_per_capita": 23.367,
       "id": "LV - Latvia"
     },
     {
@@ -137,6 +153,7 @@
       "geographical_cultural_region": "Central/East",
       "lat": 44.0165,
       "lon": 21.0059,
+      "gdp_per_capita": 13.524,
       "id": "RS - Serbia"
     },
     {
@@ -145,6 +162,7 @@
       "geographical_cultural_region": "Central/East",
       "lat": 48.669,
       "lon": 19.699,
+      "gdp_per_capita": 26.148,
       "id": "SK - Slovakia"
     },
     {
@@ -153,6 +171,7 @@
       "geographical_cultural_region": "West",
       "lat": 46.2276,
       "lon": 2.2137,
+      "gdp_per_capita": 46.15,
       "id": "FR - France"
     },
     {
@@ -161,6 +180,7 @@
       "geographical_cultural_region": "Central/East",
       "lat": 45.1,
       "lon": 15.2,
+      "gdp_per_capita": 23.932,
       "id": "HR - Croatia"
     },
     {
@@ -169,6 +189,7 @@
       "geographical_cultural_region": "Other",
       "lat": 38.9637,
       "lon": 35.2433,
+      "gdp_per_capita": 15.473,
       "id": "TR - Turkey"
     },
     {
@@ -177,6 +198,7 @@
       "geographical_cultural_region": "South",
       "lat": 39.0742,
       "lon": 21.8243,
+      "gdp_per_capita": 24.752,
       "id": "EL - Greece"
     },
     {
@@ -185,6 +207,7 @@
       "geographical_cultural_region": "Central/East",
       "lat": 41.6086,
       "lon": 21.7453,
+      "gdp_per_capita": 9.31,
       "id": "MK - The Republic of North Macedonia"
     },
     {
@@ -193,6 +216,7 @@
       "geographical_cultural_region": "Central/East",
       "lat": 42.7087,
       "lon": 19.3744,
+      "gdp_per_capita": 12.936,
       "id": "ME - Montenegro"
     },
     {
@@ -201,6 +225,7 @@
       "geographical_cultural_region": "South",
       "lat": 41.8719,
       "lon": 12.5674,
+      "gdp_per_capita": 40.226,
       "id": "IT - Italy"
     },
     {
@@ -209,6 +234,7 @@
       "geographical_cultural_region": "West",
       "lat": 51.1657,
       "lon": 10.4515,
+      "gdp_per_capita": 55.8,
       "id": "DE - Germany"
     },
     {
@@ -217,6 +243,7 @@
       "geographical_cultural_region": "North",
       "lat": 64.9631,
       "lon": -19.0208,
+      "gdp_per_capita": 82.704,
       "id": "IS - Iceland"
     },
     {
@@ -225,6 +252,7 @@
       "geographical_cultural_region": "Central/East",
       "lat": 47.1625,
       "lon": 19.5033,
+      "gdp_per_capita": 23.31,
       "id": "HU - Hungary"
     },
     {
@@ -233,6 +261,7 @@
       "geographical_cultural_region": "Central/East",
       "lat": 42.6026,
       "lon": 20.903,
+      "gdp_per_capita": 7.299,
       "id": "XK - Kosovo * UN resolution"
     },
     {
@@ -241,6 +270,7 @@
       "geographical_cultural_region": "Other",
       "lat": 26.3351,
       "lon": 17.2283,
+      "gdp_per_capita": 6.318,
       "id": "LY - Libya"
     },
     {
@@ -249,6 +279,7 @@
       "geographical_cultural_region": "West",
       "lat": 53.1424,
       "lon": -7.6921,
+      "gdp_per_capita": 107.316,
       "id": "IE - Ireland"
     },
     {
@@ -257,6 +288,7 @@
       "geographical_cultural_region": "West",
       "lat": 52.1326,
       "lon": 5.2913,
+      "gdp_per_capita": 68.219,
       "id": "NL - Netherlands"
     },
     {
@@ -265,6 +297,7 @@
       "geographical_cultural_region": "Central/East",
       "lat": 55.1694,
       "lon": 23.8813,
+      "gdp_per_capita": 29.386,
       "id": "LT - Lithuania"
     },
     {
@@ -273,6 +306,7 @@
       "geographical_cultural_region": "Central/East",
       "lat": 58.5953,
       "lon": 25.0136,
+      "gdp_per_capita": 31.17,
       "id": "EE - Estonia"
     },
     {
@@ -281,6 +315,7 @@
       "geographical_cultural_region": "Central/East",
       "lat": 49.8175,
       "lon": 15.473,
+      "gdp_per_capita": 31.707,
       "id": "CZ - Czechia"
     },
     {
@@ -289,6 +324,7 @@
       "geographical_cultural_region": "South",
       "lat": 40.4637,
       "lon": -3.7492,
+      "gdp_per_capita": 35.298,
       "id": "ES - Spain"
     },
     {
@@ -297,6 +333,7 @@
       "geographical_cultural_region": "North",
       "lat": 56.2639,
       "lon": 9.5018,
+      "gdp_per_capita": 71.852,
       "id": "DK - Denmark"
     },
     {
@@ -305,6 +342,7 @@
       "geographical_cultural_region": "Central/East",
       "lat": 51.9194,
       "lon": 19.1451,
+      "gdp_per_capita": 25.023,
       "id": "PL - Poland"
     },
     {
@@ -313,6 +351,7 @@
       "geographical_cultural_region": "West",
       "lat": 47.166,
       "lon": 9.5554,
+      "gdp_per_capita": 207.973,
       "id": "LI - Liechtenstein"
     }
   ],
