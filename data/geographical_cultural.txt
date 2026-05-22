@@ -3,3 +3,5 @@ North
 Central/Eastern
 South
 Other 
+
+https://en.wikipedia.org/wiki/Regions_of_Europe
