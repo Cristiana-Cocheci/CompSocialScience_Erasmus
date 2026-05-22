@@ -1,7 +1,12 @@
 import pandas as pd
 import networkx as nx
+from scipy.stats import binned_statistic
 import matplotlib.pyplot as plt
 from tqdm import tqdm
+from collections import Counter
+import numpy as np
+import json
+from networkx.readwrite import json_graph
 
 def create_network_org(df, year="all"):
     '''
@@ -42,7 +47,7 @@ def create_network_org(df, year="all"):
     return G
 
 
-def read_ka2_graphml(years=list, graph_dir=str, fname_prefix=str):
+def read_ka2_graphml(years=list, graph_dir=str, fname_prefix=str, selfloops=True):
     '''
     Helper function to 
     - load and prepare KA2 networks from graphml files based on year(s)
@@ -51,15 +56,52 @@ def read_ka2_graphml(years=list, graph_dir=str, fname_prefix=str):
     if len(years) == 0:
         print('ValueError: no input for variables "years"')
     if len(years) == 1:
-        G = nx.read_graphml(f'{graph_dir}{fname_prefix}{year}.graphml')
+        G = nx.read_graphml(f'{graph_dir}{fname_prefix}{years[0]}.graphml')
     else:
         G = nx.DiGraph()
         for year in years:
             G.update(nx.read_graphml(f'{graph_dir}{fname_prefix}{year}.graphml'))
     
-    # remove self loops
-    selfloops = nx.selfloop_edges(G)
-    G.remove_edges_from(selfloops)
+    if not selfloops:
+        # remove self loops
+        selfloops = nx.selfloop_edges(G)
+        G.remove_edges_from(selfloops)
+    
+    # remove isolates
+    isolates = [v for v in nx.isolates(G)]
+    G = G.subgraph([v for v in G.nodes if v not in isolates])
+    
+    # get basic info
+    directed = 'directed' if G.is_directed() else 'undirected'
+    weighted = 'weighted' if nx.is_weighted(G) else 'unweighted'
+    
+    print(f'Y{"-".join([str(year) for year in years])} graph has {G.number_of_nodes()} nodes and {G.number_of_edges()} {directed}, {weighted} edges. ')
+    print(f'The total number of participants is {sum(nx.get_edge_attributes(G, name="weight").values())}.') 
+    return G
+
+def read_ka2_json(years=list, graph_dir=str, fname_prefix=str, selfloops=True):
+    '''
+    Helper function to 
+    - load and prepare KA2 networks from json files based on year(s)
+    - print out basic components of the loaded network
+    '''
+    G = nx.DiGraph()
+    if len(years) == 0:
+        print('ValueError: no input for variables "years"')
+    if len(years) == 1:
+        with open(f'{graph_dir}{fname_prefix}{years[0]}.json', 'r') as f:
+            data = json.load(f)
+            G.update(json_graph.node_link_graph(data, source='source', target='target', edges='edges'))
+    else:
+        for year in years:
+            with open(f'{graph_dir}{fname_prefix}{year}.json', 'r') as f:
+                data = json.load(f)
+                G.update(json_graph.node_link_graph(data, source='source', target='target', edges='edges'))
+    
+    if not selfloops:
+        # remove self loops
+        selfloops = nx.selfloop_edges(G)
+        G.remove_edges_from(selfloops)
     
     # remove isolates
     isolates = [v for v in nx.isolates(G)]
@@ -93,6 +135,18 @@ def language_similarity(langs1, langs2):
         # Some language families in common
         return 1
     
+
+def bin_degseq(deg_seq):
+    deg_freqs = pd.Series(deg_seq).value_counts().sort_index()
+    geo_bins = np.geomspace(1, max(deg_freqs.index))
+    bin_counts, bin_edges, _ = binned_statistic(deg_freqs.index, deg_freqs.values,
+                                                statistic='mean', 
+                                                bins=np.concatenate(([0], geo_bins))
+                                               )
+    bin_centers = (bin_edges[:-1] + bin_edges[1:]) / 2
+    return bin_counts, bin_centers
+
+
 def digraph_config_model(G, weight=None, relabel=True, seed=None):
     '''
     Create a configuration model of the directed graph G
@@ -103,10 +157,14 @@ def digraph_config_model(G, weight=None, relabel=True, seed=None):
     out_degrees = dict(G.out_degree(weight=weight))
     
     randG = nx.directed_configuration_model(in_degrees.values(), out_degrees.values(),
-                                            create_using=nx.DiGraph(), seed=seed)
+                                            create_using=nx.MultiDiGraph(), seed=seed)
+    
+    edges = [(e[0], e[1], w) for e, w in Counter(randG.edges()).items()]
+    randG = nx.DiGraph()
+    randG.add_weighted_edges_from(edges, weight='weight')
     
     if relabel:
-        mapping = dict(zip(randG.nodes(), G.nodes()))
+        mapping = {ind: node for ind, node in enumerate(G.nodes())}
         nx.relabel_nodes(randG, mapping, copy=False)
     
     return randG
@@ -153,11 +211,11 @@ def obs_config_attribute_mixmat(G, attribute=str, weight=None, niter=50, mapping
     shape = tuple(shape)
     rand_mat = np.zeros(shape)
     
-    for _ in tqdm(range(n_ensembles)):
+    for _ in tqdm(range(niter)):
         
         randG = digraph_config_model(G, weight=weight)
         nx.set_node_attributes(randG, attr, name=attribute)
-        rand_mat[:, :, _] += nx.attribute_mixing_matrix(randG, attribute=attribute, mapping=mapping)
+        rand_mat[:, :, _] += mat_func(randG, attribute=attribute, mapping=mapping)
         
     if conf_int:
         lower = mat/np.quantile(rand_mat, .95, axis=2)
@@ -166,3 +224,27 @@ def obs_config_attribute_mixmat(G, attribute=str, weight=None, niter=50, mapping
     else:
         return mat/np.mean(rand_mat, axis=2)
 
+
+
+def gini(array):
+    """Calculate the Gini coefficient of a numpy array."""
+    # implemented by https://github.com/oliviaguest/gini.git
+    # based on bottom eq:
+    # http://www.statsdirect.com/help/generatedimages/equations/equation154.svg
+    # from:
+    # http://www.statsdirect.com/help/default.htm#nonparametric_methods/gini.htm
+    # All values are treated equally, arrays must be 1d:
+    array = array.flatten()
+    if np.amin(array) < 0:
+        # Values cannot be negative:
+        array -= np.amin(array)
+    # Values cannot be 0:
+    array = array + 0.0000001
+    # Values must be sorted:
+    array = np.sort(array)
+    # Index per array element:
+    index = np.arange(1,array.shape[0]+1)
+    # Number of array elements:
+    n = array.shape[0]
+    # Gini coefficient:
+    return ((np.sum((2 * index - n  - 1) * array)) / (n * np.sum(array)))
